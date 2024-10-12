@@ -1,35 +1,35 @@
 ---
-description: Gyro DAO
+description: 社区驱动的治理
 ---
 
-# Pengelolaan Berbasis Komunitas
+# 社区驱动 GyroDAO
 
-**Pendahuluan**
+**序幕**
 
-Gyro awalnya dimulai sebagai proyek berbasis komunitas, tanpa dukungan VC, pre-mine, dan ICO. Tujuan kami adalah menciptakan infrastruktur keuangan yang dapat diandalkan oleh aplikasi dan developer **sampai kapanpun**.&#x20;
+Gyro 是一个社区驱动的项目，没有天使投资人支持，没有预挖，也没有 ICO。我们的目标是创建一个应用程序和开发人员可以在其中永远依赖金融基础设施。
 
-Untuk mencapai hal tersebut, kami memiliki niatan untuk sepenuhnya menerapkan desentralisasi untuk protokol Gyro — menghapus satu titik kegagalan (oleh tim kami), dan membuat protokol terbuka yang tidak dapat dihancurkan serta dapat berkembang dengan cara yang sebelumnya belum pernah ada.
+为此，我们打算完全实现 Gyro 协议的去中心化——消除任何单点故障（自身团队），并创建一个坚不可摧的开放协议，可以以全新的方式发展。
 
-**Pengelolaan GYRO**
+**GYRO** **的治理**
 
-Kami dengan bangga mengumumkan sistem tata kelola yang akan menggantikan admin protocol Gyro dengan pengelolaan komunitas — memungkinkan pemegang token GYRO untuk memberikan masukan, berargumen, dan menerapkan perubahan pada Gyro — tanpa mengandalkan atau mengharuskan tim kami untuk terlibat.
+我们很荣幸地宣布，一个用社区治理来取代 Gyro 协议的管理员治理系统。它将无需依赖或需要GYRO的管理团队， 而是直接允许 GYRO 代币持有者对 Gyro 提出建议、辩论和实施更改。
 
-**Berikut cara kerjanya:**&#x20;
+**执行方式：**
 
-Siapa saja yang memegang 1% dari pasokan token GYRO saat ini, berhak mengajukan address mereka untuk mendapatkan hak tata kelola; ini termasuk serangkaian tindakan sederhana atau kompleks, seperti menyesuaikan rasio bonus antar pool, mendukung aset baru, menambahkan pool baru, atau juga mengubah parameter atau variabel lain dari protokol yang dapat dimodifikasi oleh admin saat ini.
+任何只要是拥有当前 GYRO 供应量 1% 的人，都可以提出治理行动。这些可以是简单或复杂的操作，例如调整资金池之间的奖励比率，支持新资产，添加新资金池，或更改当前GYRO管理员可以修改的协议的任何其他参数或变量。
 
-**Proposal merupakan kode yang dapat dieksekusi, ini berarti proposal akan diterapkan dan dieksekusi secara otomatis setelah disetujui. Hal itu bukan berarti sebuah usulan untuk dilaksanakan oleh tim atau lembaga.**
+提案是可执行代码，它们不是供团队或基金会实施的建议。这意味着一旦通过，它们将被自动部署和执行。
 
-Semua proposal tetap menaati pada masa voting 3 hari dan setiap address memiliki hak suara untuk dapat memilih atau menolak proposal tersebut. Jika mayoritas suara mendukung dan setidaknya memperoleh 4% suara dari pasokan token GYRO yang ada diberikan untuk proposal yang masuk, maka proposal tersebut akan diantrekan di Timelock, dan dapat dijalankan setelah 2 hari.
+所有提案都有3天的投票期，任何有投票权的地址都可以对提案投赞成票或反对票。如果提案获得过半数且至少 4% 的现有 GYRO 供应投票，则该提案将在时间锁（TimeLock）中排队，并可以在 2 天后实施。
 
-**Proses Masuk yang Mudah**
+**门槛的降低**
 
-Bagi siapa saja yang tidak memiliki GYRO dalam jumlah besar, mereka dapat menyuarakan hak memilih mereka ke address pilihan: dompet pemilik, pengguna lain, aplikasi, atau pakar DeFi.
+对于没有大量 GYRO 的人，他们可以将投票权委托给他们选择的地址，包括持有人的钱包、其他用户，应用程序或 DeFi 专家。
 
-Bahkan bisa saja siapa pun dapat berpartisipasi dalam pengelolaan Gyro dengan menerima mandat, tanpa harus memiliki GYRO. Token juga menyertakan kode untuk mengklarifikasi perwakilan dalam pemungutan suara historis, yang berguna untuk membuat sistem pemungutan suara yang kompleks.
+更好的是，任何人都可以通过接受委托来参与 GYRO 治理，甚至不需要拥有 GYRO。令牌还包括查询地址历史投票权重的代码，这对于构建复杂的投票系统起到很大的作用。
 
-**Proses yang Desentralisasi**
+**去中心化的过程**
 
-Pengelolaan akan dimulai dengan masa ujicoba awal. Para pemegang GYRO dapat mendelegasikan perwakilan oleh diri mereka sendiri atau publik sesuai keinginan mereka. Sebagai fail-safe, tim kami akan memiliki kemampuan untuk menangguhkan sistem tata kelola (meskipun bukan Timelock 2 hari protokol) selama masa ujicoba.
+治理将从初始沙盒期（一个安全机制）开始。 GYRO 持有者可以将投票权委托给他们自己或他们认为合适的人。为了更好的故障排除和安全措施，我们的团队将能够在沙盒期间（不只是2天的时间锁）暂停治理系统。
 
-Ketika sistem tata kelola beroperasi dengan lancar dan terdistribusi, kami akan menyarankan agar fail-safe dihapus. Kami akan merilis lebih banyak detail dari rencana kali ini dalam minggu yang akan datang — jangan sampai kelewatan!
+当治理系统以可靠的分布式方式运行时，我们会建议移除故障安全机制。 我们将在接下来发布此计划的更多细节！ 敬请期待！

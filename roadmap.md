@@ -1,28 +1,23 @@
-# Roadmap
+# 路线图
 
-**The journey ahead**
+未来发展蓝图
 
-Gyro is constantly evolving to offer more user-friendly, consistent, fun and rewarding ways for our community to earn through our Protocol.
+GYRO不断地发展，让我们的社区可通过GYRO协议之下，使用更多终端用户便捷、持续性、有趣和有利益的方式来赚取收益。
 
 
 
-| **Milestone**               | **Estimated Date** | **Status**                            |
-| --------------------------- | ------------------ | ------------------------------------- |
-| Alpha Build                 | February 2021      | ✅Completed                            |
-| Pre-launch Campaign         | March 2021         | ✅Completed                            |
-| Future Options              | April 2021         | ✅Completed                            |
-| Beta Testing                | July 2021          | ✅Completed                            |
-| IDO                         | August 2021        | ✅Completed                            |
-| Post-IDO Marketing Campaign | September 2021     | ✅Completed                            |
-| Governance DAO              | Q4 2021            | ✅Completed                            |
-| Partnership Announcement    | Q4 2021            | ✅Completed                            |
-| v2 APY update               | Q1 2022            | ✅Completed                            |
-| Lending Phase 1             | Q1 2022            | :hourglass\_flowing\_sand:In progress |
-| Lending Phase 2             | Q1-Q2 2022         | :pushpin:Pending                      |
-| Black Magic Integration     | Q1 2022            | :hourglass\_flowing\_sand:In progress |
-| Yaggr Integration           | Q1 2022            | :hourglass\_flowing\_sand:In progress |
-| v2 UI/UX update             | Q1 2022            | 🗓                                    |
-| Adding multi-stablecoins    | Q1 2022            | 🗓                                    |
-| Gamify Announcement         | Q1-Q2 2022         | 🗓                                    |
-| Cross-chain Integration     | Q1-Q2 2022         | 🗓                                    |
+| 里程碑         | 预计日期      | 状态    |
+| ----------- | --------- | ----- |
+| 初型构建        | 2021年2月   | ✅完成   |
+| 启动前造势       | 2021年3月   | ✅完成   |
+| 未来选项基建      | 2021年4月   | ✅完成   |
+| 测试版         | 2021年7月   | ✅完成   |
+| IDO推行       | 2021年8月   | ✅完成   |
+| IDO后期营销活动   | 2021年9月   | ⏳ 进行中 |
+| DAO治理启动     | 2021年第四季度 | 🗓    |
+| 添加多元稳定币     | 2021年第四季度 | 🗓    |
+| 战略伙伴发布      | 2021年第四季度 | 🗓    |
+| 终端界面及用户体验更新 | 2021年第四季度 | 🗓    |
+| Gamify游戏化公告 | 2022年第一季度 | 🗓    |
+| 跨链整合        | 2022年第一季度 | 🗓    |
 

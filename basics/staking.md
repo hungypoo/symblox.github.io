@@ -1,62 +1,44 @@
----
-description: Maximizing Returns with Staking
----
-
-# OBSOLETE - Staking
+# 质押
 
 ![](<../.gitbook/assets/image (19).png>)
 
 \
-**Overview**
+将利益最大化
 
-Cryptocurrency staking means “locking up” a digital asset or being a validator in a decentralized crypto network.
+稳定币是现代数字资产经济的基础。目前，加密货币领域的总市值接近 2 万亿美元，稳定币占其中的 5%。简而言之，稳定币是法定货币的链上代表，可以做到现实世界货币无法做到的事情。
 
-Staking is the primary value-accrual strategy of many DeFi protocols. For Gyro, users would stake their GYRO through Gyro’s dApp website to earn rewards. These rewards derive from bond sales proceeds and may vary based on the number of GYRO staked within the protocol and the reward rate which is set by an algorithmic monetary policy.
+法币支持的稳定币是去中心化金融生态系统的命脉，支持从借贷，抵押，到流动性挖矿和闪贷的各种用例。然而，这些并不是唯一的“稳定币”。
 
-**Staking**
+加密资产背书的稳定币是正确发展方向的一大步，但也存在一系列问题。例如，MakerDAO 对以太坊进行了大量超额抵押，并且在过去几年中经历了多次上下波动。GYRO 旨在为稳定币供应的发行和维护创建一个更好的平台，并通过阻止除协议之外的任何人铸造或销毁代币。 GYRO比其他任何的平台或方案都更接近于解决实际问题。
 
-When you stake, you:
+GYRO不会重定基准；在价格下跌时将回购和销毁代币，并在价格上涨时铸造和出售。这意味着协议从以较低的价格点买入或以较高的价格点出售来获利，并且储备库发行债券以铸造 GYRO 并将其分发给质押者。
 
-**1.** Lock in GYRO and receive an equal amount of sGYRO.
+去中心化金融（DeFi）将区块链推向了前所未有的高度，而稳定币是重要的组成部分。通过制造更好的稳定币，GYRO不仅有助于为该领域带来更多资产，还可以通过提供更好质量的稳定币来提高DeFi领域的整体性能。
 
-**2.** Your sGYRO balance then rebases up at the end of every epoch automatically.
+**结合质押**
 
-**3.** sGYRO can be eligible to be transferred so it is composable with other DeFi protocols.
+在数字资产的世界中，质押是指资产被锁定在智能合约中以随着时间的推移产生回酬。GYRO 用户可以通过平台的原生DApp网站来质押他们的代币，奖励由债券销售的收益和质押的GYRO数量决定。
 
-To do it is easy!
+质押GYRO时，用户将收到等量的sGYRO代币作为回报，这些代币在每个纪元结束时自动变基。此sGYRO可转移到其他DeFi协议上，并可与不同的去中心化金融生态系统组合。但sGYRO是一种会重定基准的代币，除了持有以外，不得用于任何交易或其他使用。
 
-**1.** Go to the Gyro website and select “stake.”
+在结束质押期间，用户将他们的sGYRO代币发送回合约进行销毁以换取GYRO，但这需要用户最新的重定基准作为退出费用。重定基准是指资产的价值根据其产生价值的基础资产进行调整。例如，有100个GYRO被质押，并且协议使用这些资金来产生5%的利润，那么质押者手中的100个sGYRO将不得不重新调整基准以保持对应价值。
 
-**2.** Send your GYRO to the staking contract and receive sGYRO at a 1:1 basis.
+重定基准在下一个纪元结束时，会让投资者有足够的时间看看结果，并决定他们是否要取消质押。在GYRO上质押的另一个优势是：收益率是复利的，这意味着重定基准会随着时间的推移增加收益率。这也意味着用户越早质押代币，其可以获得的收益就越高。
 
-Remember that sGYRO is a transfer-restricted rebasing token so it’s not meant to be traded or used for anything except holding.
+由于协议处理所有代币的质押，因此GYRO的长期交易永远不会低于其内在价值，允许投资者在确定风险的情况下做出决策，因为长期价格下限为1美元。通过质押，所有的利润平均分配给参与者，使用 sGYRO，每个人也可以在每个纪元中获得相同百分比的利润。
 
-**Unstaking**
+这让用户只需持有资产就可以增加收益，而无需在各种流动性挖矿平台上管理资产。重要的是要了解GYRO本身不会重定基准 — — 而是通过实际销售到市场来保持其稳定性，并且用户可通过债券以较低的成本购买GYRO。
 
-When you unstake, you:
+作为出售资产对以提供流动性的回酬，该协议通过债券以折扣价提供GYRO，债券授予五天并在每个纪元赎回。尽管这使投资者能够积累更多的GYRO，而不是通过以市场价格购买和质押，额外的收益在很大程度上取决于已经有多少债券可用。
 
-**1.** Go to our website and select “unstake.” Send sGYRO back to the staking contract to receive GYRO at 1:1.
+债券奖励也可以在每个时期结束前进行质押，这意味着用户可以获得更大的折扣以及质押奖励。此外，在纪元结束时，用户可以使用更多的资金来购买更多的债券，从而通过保持折扣价格来进一步降低成本。
 
-**2.** Burn your sGYRO and receive an equal amount of GYRO.
+从本质上讲，通过为GYRO提供支付流动性，该协议可以积累流动性份额。并且通过在五天内授予GYRO，新GYRO的供应对市场产生的影响将会变得更加平缓。还值得注意的是，债券的折扣主要取决于可用债券的数量，伴随可用数量的上升和下降。
 
-**3.** Unstaking also requires the user to forfeit the most recent rebase as an exit fee.
+**让稳定币变得更好**
 
-**Rebasing**
+GYRO 提供了一种更简单、安全与去中心化金融市场互动的方法，其为用户提供了一种赚取丰厚利息奖励、对社区驱动的治理提案进行投票、对质押的竞争激励的方式。每个GYRO 始终以USDT、DAI、USDC 甚至 BUSD 的形式获得1美元的支持，平台计划很快增加对更多支持代币的担保。
 
-In cryptocurrency, rebasing is the process of adjusting the value of a derivative (sGYRO) to its underlying base (GYRO).
+GYRO还可用于对冲比特币、以太坊甚至币安币等大市值加密货币的波动性。通过与美元脱钩，GYRO可确保投资者的资金随着时间的推移而保持其价值。尽管大多数类似的稳定币已经提供此功能，但这些稳定币仍然高度中心化或设计不佳。
 
-Because Gyro’s protocol distributes GYRO by sending them to the staking contract without asking for sGYRO back, this increases the ratio of GYRO staked to sGYRO outstanding. Thus, resulting in a rebase to correct the difference.
-
-For example: there are 100k GYRO staked and 100k sGYRO outstanding. The protocol produced $5k profit for the day, which it uses to mint and back 5k GYRO. It sends those GYRO to the staking contract; there are now 105k GYRO staked and 100k sGYRO outstanding. sGYRO supply needs to increase by 5k, or 5%, to return to balance. So, sGYRO is rebased up by 5%.
-
-Rebases occur retroactively. For example, at the end of epoch 10 triggers a rebase of profits from epoch 9. This delay lets you see what you’re missing if you want to unstake or what you’ll get if you want to stake.
-
-**The reason to stake — Compound Interest**
-
-Annual Percentage Yield (APY) is a measurement of compound interest. This is different from Annual Percentage Return (APR), which is a measurement of simple interest.
-
-Staking on Gyro allows users to receive compounded returns automatically. When users stake GYRO, they receive sGYRO. sGYRO represents our staked GYRO. sGYRO can always be exchanged 1:1 for GYRO, but it rebases to reflect profits. This means we can compound; for example, every day of our first week we rebased \~0.45% per epoch. If you held 100 GYRO, your first rebase of the week was 0.45 GYRO and your last rebase of the week was 0.49 GYRO. This is a 10% increase in yield! If we had simple interest, every epoch would be 0.45 GYRO.
-
-**Conclusion**
-
-Staking is how profits are distributed equitably to the participants. By way of sGYRO, everyone will get the same percentage profit for each epoch. Therefore, the act of rebasing also gives us the chance to compound yields without having to harvest or do anything apart from holding.
+尽管GYRO有助于解决现代稳定币面临的许多问题，但它并不是真正的稳定币。相反，GYRO是加密货币资产类别中的一个全新概念，GYRO具有许多以前不可能实现的优势。由于GYRO处于投机性资产和现代功能性稳定币之间风险范围，因此GYRO在加密行业中是符合大众效应的。 尽管稳定币在数字资产和虚拟货币领域里站稳了脚跟，只有通过迭代开发，才能最终实现完美的链上价值通证。GYRO旨在朝着这个目标前进，为更好的数字经济创造最实用、最稳定的基础。

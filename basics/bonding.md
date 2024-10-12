@@ -1,69 +1,65 @@
----
-description: Bonding 101
----
-
-# Bonding
+# 债券
 
 ![](<../.gitbook/assets/image (29).png>)
 
-**What are Bonds?**
+**什么是债券？**
 
-Bonds refer to the process of trading Liquidity Provider (LP) tokens for GYRO tokens at a discount (below market price).
+债券是指以折扣价（低于市场价格）用流动性提供者 (LP) 代币交易 GYRO 的过程。
 
-With Gyro, the process of purchasing bonds has been simplified to a one-step process. Instead of having to purchase the LP tokens then trading them for Bonds, users only need to have the asset-pair (USDT + GYRO) in their wallet to purchase the bonds directly.
+使用 Gyro，购买债券的过程已简化为一个步骤。用户只需在钱包中拥有资产对（USDT + GYRO）即可直接购买债券。
 
-Bonds are vested for 5 days and are paid out per block height. For example, if you were to purchase a bond, after the first day you would have received 20% of the vested amount; then 40% after the second day, etc.
+债券的归属期为 5 天，每天支付一次。 例如，如果您要购买债券，在第一天之后您将收到既得金额的 20%； 然后第二天后 40%，依此类推。
 
-**Why Bond?**
+### **为什么用债券？**
 
-Simply, it allows you to buy GYRO at a lower cost basis. In return for selling your asset-pair (LP), the protocol will sell you GYRO at a discount. The idea here is that bonds will give you some amount more GYRO than you would have received if you had bought on the market and then staked. The amount of “how much more” will be determined by how many bonds there are already available.
+简单地说，这将允许您以较低的成本购买 GYRO， 作为出售您的资产对 (LP) 的回报。协议将以折扣价出售给您 GYRO。 如果您在市场上购买然后质押，债券将为您提供更多的 GYRO。 “还有多少”的数量将取决于已有多少债券。
 
-**Let’s walk through a bond example.**
+## 让我们来看一个债券的例子
 
-1\. When the price of GYRO is $500, and you have $1,000USD. With that cash amount money, you are able to go and buy 2 GYRO and stake.
+1\.   当 GYRO 的价格为 500 美元时，您有 1,000 美元，您可以购买 2 个 GYRO。
 
-2\. Staking will yield \~0.6% per epoch, and so during a vesting term (15 epochs), your stake will increase from 2 GYRO to 2.185 GYRO.
+2\. 每个纪元 的质押将产生约 0.6% 的收益，因此在一个归属期（15 个 纪元）内，您的 质押将从 2 GYRO 增加到 2.185 GYRO。
 
-3\. If the bond price is $450, instead of buying outright, you could buy 1 GYRO for $500, add 1 GYRO and $500 to the pool, and bond the liquidity share you got back for a locked in 2.22 GYRO.
+3\. 如果债券价格为 450 美元，您可以以 500 美元的价格购买 1 个 GYRO，然后将购买的 1 个 GYRO 和剩下的500美元添加到奖池中，这将会锁定 2.22 GYRO 的流动性份额，而不是直接购买（相当于450美元/GYRO）。
 
-4\. Over the next five days, you can claim those GYROs as they vest, until term completion and you have the full amount.
+4\. 在接下来的五天内，您可以在这些 GYRO 到期时领取，结束时您可以拥有全部金额。
 
-5\. **Strategy** gets interesting when you factor in the rewards from the bond!
+5\. 当您将债券的回报考虑在内时，**策略**就会变得有趣起来！
 
-6\. Before the end of each epoch, you could claim the accrued rewards and stake, which means you get both the discount and the staking rewards.
+6\. 在每个纪元结束前，您可以领取累积的奖励和质押，这意味着您可以获得折扣和质押奖励。
 
-7\. Or else you could, at the end of the term, add the 2.22 GYRO plus $1110 to the pool to get new LPs and create another bond.
+7\. 或者，您可以在归属期结束时将 2.22 GYRO 加上 1110 美元（2.22\*500）添加到池中以获得新的 LP 并创建另一个债券。
 
-8\. Doing this will lower costs because you already got your GYRO at a discount and you’re now getting yet another discount on the next round.
+8\. 这样做会降低成本，因为您已经以折扣价购买了 GYRO，现在您将在下一轮获得另一个折扣。
 
-9\. In this **strategy** you can do both:
+9\. 在此**策略**中，您可以同时执行以下两项操作：
 
-1\. Claim rewards and stake before the end of each epoch,
+1\.   在每个纪元结束前领取奖励和权益，
 
-2\. Then when you’re done vesting, unstake everything and rebond!
+2.在到期时，取消所有抵押并重新创建债券！
 
-**Creating a Bond**
+**创建一个债券**
 
-Go to Gyro’s website and select the ‘Bond’ tab. The protocol will quote the GYRO amount and a vesting period for the trade. You would need to have the asset-pair (USDT + GYRO) in your wallet to purchase the bond.
+到 Gyro 的网站并选择“债券”选项。 协议将引用 GYRO 金额和交易的归属期。 您需要在钱包中拥有资产对（USDT + GYRO）才能购买债券。
 
-**Redeeming a Bond**
+**赎回债券**
 
-On Gyro’s website, select the ‘Bond’ tab, then click on the submenu ‘Redeem’. The protocol will recall when you bonded and your vesting term. If you have any pending rewards, you can claim them. Rewards accrue throughout the vesting period.
+在 Gyro 的网站上，选择“债券”选项，然后单击“赎回”。 协议会记住您何时绑定和归属期限。 如果您有任何待处理的奖励，您可以领取奖励。 奖励在整个归属期内累积。
 
-Note: sGYRO is the protocol’s profit accruing token and since bonders earn GYRO (not sGYRO), stakers earn 100% of protocol profits (minus the DAO’s cut). See our staking article for more info.
+注意：sGYRO 是协议的利润累积代币，并且由于债券持有者赚取 GYRO（而不是 sGYRO），质押者赚取协议利润的 100%（减去 DAO 的削减）。 有关更多信息，请参阅我们的 质押的文章。
 
-**Some key points on Bonding**
+### **债券的一些关键点**
 
-Bonds give you the opportunity to buy GYRO from the protocol at a discount. Here are just a few differences to keep in mind:
+债券让您有机会以折扣价从协议中购买 GYRO。 以下是一些需要记住的区别：
 
-1\. **You pay for GYRO with liquidity.** This aspect helps the protocol accumulate liquidity shares.
+1\.   **您用流动性支付** **GYRO。** 这方面有助于协议积累流动性份额。
 
-2\. **NO GYRO up front.** Instead, your GYRO is vested over the course of five days. This smooths out market impacts from the new supply of GYRO.
+2\.   **前期没有GYRO**。 相反，您的 GYRO 将在五天内授予。 这消除了 GYRO 新供应对市场的影响。
 
-3\. **The demand for bonds will determine your discount.** The bond discounts increase when there are more bonds, and decreases when there are less.
+3\.   **对债券的需求将决定折扣力度**。 债券越多，债券折扣越大，债券越少，折扣越小。
 
-4\. **Once you bond, your LP commitment is locked.** When you have executed a trade, you have made the trade. Think of it as buying GYRO and committing to stake for 5 days with a set reward rate.
+4\.   **当购买债券之后，您的** **LP** **承诺将被锁定。** 当执行交易时，您就完成了交易。 可以将其视为购买 GYRO 并承诺以设定的奖励率质押 5 天。
 
-**Conclusion**
+### **结论**
 
-Bonding not only allows users to purchase GYRO at discount, but can also be used as part of a multi-step investment strategy to compound yields.
+债券不仅允许用户以折扣价购买 GYRO，而且还可以用作多步投资策略的一部分以复合收益率。

@@ -2,36 +2,39 @@
 description: pGYRO Futures Options
 ---
 
-# What is pGYRO
+# pGyro是什么？
 
-**Futures Options**
+\
+运营一个项目既不是免费也不便宜，一切都是有成本的。为了帮助我们支付开发、营销、审计等费用，我们与一些我们认识和信任的个人投资者进行了一轮私人融资。
 
-Operating a project is neither cheap nor free; everything has a cost. To help us pay for development, marketing, audits, etc., we held a private funding round with a few individual investors that we knew and trusted.
+由于 GYRO 无法预挖，我们提供 pGYRO 作为 GYRO 的前期衍生代币。持有者可以选择通过销毁pGYRO 并提供 GYRO 的内在价值（1 美元）来铸造 GYRO。
 
-Because GYRO cannot be pre-mined, we offered pGYRO as a precursor derivative of GYRO. Holders have the option to mint GYRO by burning pGYRO and providing the intrinsic value of GYRO (1 USD).
+代币经济生态
 
-**Tokenomics**
+团队、投资者和顾问的 pGYRO 是根据GYRO 供应量的 10%来铸造。举个例子：
 
-Team, investors and advisors’ pGYRO cumulatively vest as 10% of GYRO supply. For example: If 1m GYRO circulating supply, a maximum of 100k pGYRO can be redeemed. At 10m GYRO supply, a maximum of 1m pGYRO is redeemable.
+如果100万GYRO供应，最多可以兑换10万pGYRO。
 
-Because the redemption of pGYRO is based on supply, this means that holders can only completely redeem their vested pGYRO when circulating supply of GYRO is \~ 5b. There is a lot of upside potential for pGYRO holders; but it is dependent on the actual growth of the protocol.
+在 1000万GYRO 供应量下，最多可兑换100万pGYRO， 以此类推。
 
-**Example:**
+由于 pGYRO 的兑换是基于Gyro总供应量，这意味着持有者只能在 GYRO 的循环供应量为约50亿时才能完全赎回其既得的 pGYRO。 pGYRO 持有者有很大的上升潜力；但它取决于协议的实际增长。
 
-If an investor purchased 1m pGYRO and the circulating supply is 1m GYRO; the formula for calculating the amount an investor can redeem is:
+pGyro 的分配：
 
-**(Amount of shares purchased / Total amount of shares) x (Circulating Supply x 2%) = Amount redeemable**
+管理团队：4亿pGYRO 和 7% 的流通量
 
-(1m pGYRO / 450m pGYRO) x (1m GYRO x 2%) = 44.44 pGYRO redeemable
+投资者：5000 万pGYRO 和 2% 的流通量
 
-**Breakdown**
+顾问团：5000 万 pGYRO 和 1% 的流通量
 
-**Team:** 400m pGYRO and 7% supply
+社区DAO：5亿 pGYRO，没有流通上限（社区可以对此进行投票）
 
-**Investors:** 50m pGYRO and 2% supply
+兑换pGyro 的例子：
 
-**Advisors:** 50m pGYRO and 1% supply
+如果投资者购买了 100 万个 pGYRO，并且流通供应量为 100 万个 GYRO。计算投资者可以兑换金额的公式是：
 
-**DAO:** 500m pGYRO and no supply cap (Community can vote on this)
+购买的pGyro数量/pGyro总数）x（流通量x 2%）=可赎回的数量
+
+(100万pGYRO / 4.5亿pGYRO) x (100万GYRO x 2%) = 44.44 pGYRO 可兑换
 
 ![Supply Distribution](<../.gitbook/assets/Asset 6Token.png>)

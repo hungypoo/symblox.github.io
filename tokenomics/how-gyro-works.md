@@ -2,89 +2,55 @@
 description: Tokenomics
 ---
 
-# How Gyro Works
+# GYRO的运作方式
 
-**How Gyro works:**
+\
+GYRO 的运作方式
 
-Each GYRO token is backed by 1 USD (i.e. USDT, DAI, BUSD, USDC) in the treasury.
+**以下是基础知识解析:**
 
-We will initially start with USDT as our treasury asset. After launch, we will be adding other stablecoins to balance our treasury. This will include DAI, BUSD, USDC etc.
+每个 GYRO 代币由 1 美元（即 USDT、DAI、BUSD、USDC）支持。
 
-Tokens cannot be minted or burned by anyone except the protocol.
+我们起初会将USDT 作为我们的库藏资产。待GYRO 上市后，我们将添加其他稳定币来平衡我们的资金，包括 DAI、BUSD、USDC 等稳定币。
 
-The protocol only mints or burns in response to price.
+除协议本身以外，任何人都不能铸造或销毁代币。
 
-GYRO does not rebase. Instead, a new supply is created via direct sales into the market and burned via direct purchases from the market. This way, GYRO remains backed by real assets in the treasury, i.e., USD.
+该协议仅根据价格进行铸造或销毁。
 
-These basically translates to:
+GYRO 不会采用Rebase机制。相反，新的供应是通过市场直接销售而产生的，并也通过市场购买来销毁代币。 这样，GYRO 仍由库存中的实际资产（即美元）提供支持。
 
-When GYRO trades below ↓ 1 USDT, the protocol buys it back and burns GYRO.
+**简单说明为：**
 
-When GYRO trades above ↑ 1 USDT, the protocol mints and sells new GYRO.
+当 GYRO 交易价格低于 ↓ 1 USDT 时，协议会买回并销毁 GYRO。
 
-This is because the treasury must hold 1 USDT and only 1 USDT for each GYRO every time it is bought or sold so it makes a profit. That means the protocol either gets more than 1 USDT for the sale side or spends less than 1 USDT on the purchase side.
+当 GYRO 的交易价格高于 ↑ 1 USDT 时，协议会铸造并出售新的 GYRO。
 
-The fact that the protocol holds USDT for each token allows us to say with certainty that GYRO will not trade below its intrinsic value in the long term.
+这是因为每次买卖GYRO时，库藏资产须稳定在1 USDT的价位，并且只交易在1 USDT价格时才能获利。这意味着协议要么为卖方获得超过 1 USDT价格，要么在买方那付出少于 1 USDT。
 
-Investments can then be made with defined risk because 1 USDT is the guaranteed long-term price floor. And because of this, the protocol can (and will) buy indefinitely below 1 USDT until no sellers remain, even if the supply is reduced to 0. In this example this event would reward those who did not sell immensely because they would end up with a chunk of every token that was burned!
+事实上，该协议为每个代币持有USDT ，我们可以肯定地说，GYRO 的长期交易不会低于其本身价值。
 
-Holding stablecoins to back tokens also creates a yield generation opportunity.
+并且可在确定的风险下进行投资，因为 1 USDT 是有保证的长期价格下限。 正因为如此，该协议可以（并将）无限期地以低于 1 USDT 的价格买入代币，直到没有卖家为止，即使供应量减少到 0的情况。在这个例子中，这个情况将奖励那些没有大量卖出的人，因为他们最终会得到每个被销毁代币的大部分收益！
 
-Locking away stablecoins in a vault would then be a waste. Given that the protocol never needs more than a few percent of reserves, even on the largest of down days, means you are free to utilize the rest to plug into yield aggregators and add those proceeds onto profits from buying and selling GYRO.
+持有稳定币来支持代币，同时创造了产生收益的机会。
 
-**Gyro’s initial profit distribution**
+将稳定币锁在保险库中将是一种浪费。 由于该协议永远不需要几个百分点的准备金，即使是在最大幅度的下跌日，这表示您可以自由地将其余部位放入”收益聚合器”并将这些收益增加到买卖 GYRO 的利润中。
 
-90% to stakers
+**GYRO的初始利润分配**
 
-10% to the DAO (these allocations will be changed, if necessary, as decided by the DAO).
+\- 90% 给质押者
 
-All rewards are paid in GYRO**,** backed by stablecoins.
+\- 10% 分配给去中心化自治小区或 DAO（如有必要，这些分配将根据 DAO 的决定进行更改）。
 
-This system maintains a stable intrinsic value and reduces the incentive role of appreciation in favor of accumulation. As with real currency, you try to accumulate more dollars and you do not have to wish upon a star that your dollars become worth more. Although both can happen.
+\- 所有奖励将通过由稳定币支持的 GYRO 支付。
 
-**Staking and Rebasing**
+\- 该生态系统保持了稳定的内在价值，降低了升值的激励作用，但有利于积累存储。 就好像，您想要积累更多美元，但不必额外用力去许愿您的美元变得更值钱。尽管这两种情况都有可能发生的。
 
-The protocol distributes tokens by sending them to the staking contract without asking for sGYRO back. This increases the ratio of GYRO staked to sGYRO outstanding, and results in a rebase to correct the difference.
+**GYRO 的最佳玩法是什么？**
 
-For example: there are 500k GYRO staked and 500k sGYRO outstanding. The protocol produced $5k profit for the day, which it uses to mint and back 5k GYRO. It sends those GYRO to the staking contract; there are now 505k GYRO staked and 500k sGYRO outstanding. sGYRO supply needs to increase by 5k, or 1%, to return to balance. So, sGYRO is rebased up by 1%.
+尽可能以接近或稍低于 1 USDT 的价格购买 GYRO。
 
-The only caveat is that rebases occur retroactively. The end of epoch 100 triggers a rebase of profits from epoch 99. This delay lets you see what you’re missing if you want to unstake or what you’ll get if you want to stake.
+请记住，与 1 USDT价格的距离是您得承担的风险（实际上它在 1 以下是负数！）。
 
-Staking is how we distribute profits equitably to participants. Through sGYRO, everyone receives the same percentage profit per epoch. Rebasing also allows us to compound yield with no need to harvest or do anything except hold.
+无论您在从哪购买，您都可以质押 GYRO 或将它作为流动性资产提供给 PancakeSwap的资金池并绑定 LP 代币。
 
-**Bonding**
-
-Bonding is the process of trading an LP share to the protocol for GYRO. The protocol quotes an amount of GYRO and a vesting period for the trade. It is important to know: **when you create your bond, you are giving up your LP share.** The protocol compensates you with more GYRO than you’d get on the market, but your exposure becomes entirely to GYRO and no longer to GYRO-USDT LP.
-
-_Note that sGYRO is the protocol’s profit accruing token and since bonders earn GYRO (not sGYRO), stakers earn 100% of protocol profits (minus the DAO’s cut)._
-
-**Why Do I Want to Bond?**
-
-Because it allows you to buy GYRO at a lower cost basis. In return for selling your LP, the protocol will sell you GYRO at a discount.
-
-**Dynamics of a Bond**
-
-The protocol quotes bond prices based on the protocol’s risk-free value (RFV). The Bond Premium is a protocol-governed policy tool that controls the premium charged for bonds. A lower premium means a higher discount and a higher incentive to bond.
-
-_Executing Price = RFV / Premium {Premium ≥ 1}_
-
-The premium is determined by the total debt of the system and a scaling variable. This ties the price of bonds to the number of bonds outstanding; the fewer bonds outstanding, the lower the premium and the higher the discount.
-
-Premium = 1 + (Debt Ratio \* BCV)\
-Debt Ratio = Bonds Outstanding / GYRO Supply
-
-The risk free value of the LP share for the protocol is the point at which the pool is balanced (1 GYRO = 1 USDT). Since the protocol must protect the backing of GYRO, this is the lowest price that it can accept; worst case, it can back every 2 GYRO bonded by 1 USDT and 1 GYRO. Above this equilibrium, there is an excess of USDT. Below this equilibrium, there is an excess of GYRO. Either can be used, and there will always be enough of both.
-
-_Risk-Free Value = (LP / Total LP) \* 2sqrt(Constant Product)_
-
-This means a bonder is (generally) selling their LP for below market value. However, this is canceled out by the protocol bonding GYRO at below market value.
-
-**Linear Scale**
-
-The exponential increase in the value of bonded GYRO relative to the value of the LP is expected to create increasing demand for bonds the higher price is. This is an extremely favorable dynamic; the higher price goes (and the more the protocol sells in response), the more liquidity there should be.
-
-Bonders can make this trade, despite time risk, because their breakeven point has been reduced. The higher the price is, the greater that padding becomes.
-
-**Conclusion**
-
-Gyro’s aim is to offer a new class asset token that can be a part of any portfolio. It can be used to hedge risky assets while offering safer and better incentives than stablecoins.
+在这两种情况下，长期下来，您将能获得更多 GYRO币！

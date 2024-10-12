@@ -1,81 +1,82 @@
 ---
-description: Gyro, A new crypto asset-class
+description: GYRO项目介绍
 ---
 
-# Introduction
+# 介绍
 
 ![](<.gitbook/assets/image (4).png>)
 
 \
-In Crypto there are stablecoins, which are a digital currency that are pegged to “stable” reserve assets such as the U.S. dollar or gold. Given this value, these sets of coins have become the primary trading pairs in crypto markets and one of the most popular assets in DeFi. So much so that there are currently $111 billion USD worth of stablecoins in circulation. This is why you see retail and institutional investors use stablecoins such as USDT to hedge against Bitcoin.
+\
+数字货币中的稳定币，是和“稳定”的市场储备资产（如美元或黄金）挂钩的数字货币。 鉴于这个价值，稳定币已成为加密市场和交易DeFi 项目最受欢迎的资产。市场上目前有价值约1110 亿美元的数字货币在流通。这就是为什么您看到散户和机构投资者都使用稳定币（例如 USDT）来对冲比特币的原因。
 
-But there is a better option, GYRO, which isn’t a stablecoin. It is a new and exciting crypto asset class that has advantages that stablecoins do not. It is a ‘Goldie Locks’ or Lego piece in the crypto ecosystem because it mitigates the risk profile between volatile assets such as bitcoin and pegged stablecoins. You see, functional stablecoins can achieve the stability and value of USD, but that does not necessarily mean they are stable in purchasing power and/or have the ability to grow in value.
+但现在还有一个更好的项目，就是 ”GYRO”，它不是稳定币种，而一项新的热门加密资产类别，并且具有稳定币所没有的优势。我们可将GYRO视为加密生态系统中的“金锁”或乐高积木，因为它跨越了高波动性的比特币和挂钩稳定币交易间的风险状况。功能稳定币可以实现美元的稳定性和价值，但这并不一定表示它们的购买力和价值增长能力是稳定的。.
 
-For instance, if you introduce one asset with a risk profile (i.e., a volatile asset like bitcoin) into your portfolio, you would be adding systemic risk. If you add Gyro to your portfolio, it can be a tool to hedge high profile assets (i.e., BTC, ETH, BNB) like USDT. Gyro’s game changing difference is that it breaks away from having to be pegged by the USD.
+例如，如果您将一项具有风险的资产（即比特币等高波动资产）放入您的投资组合，您有可能增加系统性的投资风险。
 
-You may be asking yourselves, “aren’t stablecoins already doing that?”&#x20;
+但如果您选择将 GYRO资产加入到您的投资组合中，它就可以作为与主流资产（即 BTC、ETH、BNB）对冲的工具，就如同USDT的功能。 GYRO 的独特创新之处在于它摆脱了以往稳定币必须与美元挂钩的性质。
 
-And the answer would be yes, but remember that most stablecoins are centralized and offer very little or no interest or rewards. Again, because GYRO is not a stablecoin and is not pegged to USD, it is safer than stablecoins. Gyro is seen as an even better option because:
+你可能会问:“稳定币不是已经这样做了吗？”
 
-·       it earns interest
+没错 ! 这答案是肯定的，但请记住，目前大多数稳定币都是中心化的，并且只提供很低或零利息的收益奖励。 因此，由于 GYRO 不是稳定币且不与美元挂钩，它比稳定币更安全。
 
-·       is always backed by $1 USD (i.e. USDT, DAI, BUSD, USDC)
+**以下您可以看到**GYRO**的优势：**
 
-·       is fully decentralized with community-driven governance
+\- 它能赚取利息收益
 
-·       offers competitive incentives to users.
+\- 始终由 1 美元支持（即 USDT、DAI、BUSD、USDC）
 
-**How investing in GYRO works.**
+\- 完全去中心化，由社区治理
 
-So, let’s break down the basics.
+\- 提供用户有竞争力的收益奖励。
 
-Each GYRO token is backed by 1 USD (i.e. USDT, DAI, BUSD, USDC) in the treasury.
+投资 GYRO 的运作方式
 
-We will initially start with USDT as our treasury asset. After launch, we will be adding other stablecoins to balance our treasury. This will include DAI, BUSD, USDC etc.
+**以下是基础知识解析:**
 
-Tokens cannot be minted or burned by anyone except the protocol.
+每个 GYRO 代币由 1 美元（即 USDT、DAI、BUSD、USDC）支持。
 
-The protocol only mints or burns in response to price.
+我们起初会将USDT 作为我们的库藏资产。待GYRO 上市后，我们将添加其他稳定币来平衡我们的资金，包括 DAI、BUSD、USDC 等稳定币。
 
-GYRO does not rebase. Instead, a new supply is created via direct sales into the market and burned via direct purchases from the market. This way, GYRO remains backed by real assets in the treasury, i.e., USD.
+除协议本身以外，任何人都不能铸造或销毁代币。
 
-These basically translates to:
+该协议仅根据价格进行铸造或销毁。
 
-When GYRO trades below ↓ 1 USDT, the protocol buys it back and burns GYRO.
+GYRO 不会采用Rebase机制。相反，新的供应是通过市场直接销售而产生的，并也通过市场购买来销毁代币。 这样，GYRO 仍由库存中的实际资产（即美元）提供支持。
 
-When GYRO trades above ↑ 1 USDT, the protocol mints and sells new GYRO.
+**简单说明为：**
 
-This is because the treasury must hold 1 USDT and only 1 USDT for each GYRO every time it is bought or sold so it makes a profit. That means the protocol either gets more than 1 USDT for the sale side or spends less than 1 USDT on the purchase side.
+当 GYRO 交易价格低于 ↓ 1 USDT 时，协议会买回并销毁 GYRO。
 
-The fact that the protocol holds USDT for each token allows us to say with certainty that GYRO will not trade below its intrinsic value in the long term.
+当 GYRO 的交易价格高于 ↑ 1 USDT 时，协议会铸造并出售新的 GYRO。
 
-Investments can then be made with defined risk because 1 USDT is the guaranteed long-term price floor. And because of this, the protocol can (and will) buy indefinitely below 1 USDT until no sellers remain, even if the supply is reduced to 0. In this example this event would reward those who did not sell immensely because they would end up with a chunk of every token that was burned!
+这是因为每次买卖GYRO时，库藏资产须稳定在1 USDT的价位，并且只交易在1 USDT价格时才能获利。这意味着协议要么为卖方获得超过 1 USDT价格，要么在买方那付出少于 1 USDT。
 
-Holding stablecoins to back tokens also creates a yield generation opportunity.
+事实上，该协议为每个代币持有USDT ，我们可以肯定地说，GYRO 的长期交易不会低于其本身价值。
 
-Locking away stablecoins in a vault would then be a waste. Given that the protocol never needs more than a few percent of reserves, even on the largest of down days, means you are free to utilize the rest to plug into yield aggregators and add those proceeds onto profits from buying and selling GYRO.
+并且可在确定的风险下进行投资，因为 1 USDT 是有保证的长期价格下限。 正因为如此，该协议可以（并将）无限期地以低于 1 USDT 的价格买入代币，直到没有卖家为止，即使供应量减少到 0的情况。在这个例子中，这个情况将奖励那些没有大量卖出的人，因为他们最终会得到每个被销毁代币的大部分收益！
 
-Gyro’s initial profit distribution
+持有稳定币来支持代币，同时创造了产生收益的机会。
 
-90% to stakers
+将稳定币锁在保险库中将是一种浪费。 由于该协议永远不需要几个百分点的准备金，即使是在最大幅度的下跌日，这表示您可以自由地将其余部位放入”收益聚合器”并将这些收益增加到买卖 GYRO 的利润中。
 
-10% to the decentralized autonomous organization or DAO (these allocations will be changed, if necessary, as decided by the DAO).
+GYRO的初始利润分配
 
-All rewards are paid in GYRO backed by stablecoins.
+\- 90% 给质押者
 
-This system maintains a stable intrinsic value and reduces the incentive role of appreciation in favor of accumulation. As with real currency, you try to accumulate more dollars and you do not have to wish upon a star that your dollars become worth more. Although both can happen.
+\- 10% 分配给去中心化自治小区或 DAO（如有必要，这些分配将根据 DAO 的决定进行更改）。
 
-What is the best play with GYRO?
+\- 所有奖励将通过由稳定币支持的 GYRO 支付。
 
-Buy GYRO as close to or just below 1 USDT as you can.
+\- 该生态系统保持了稳定的内在价值，降低了升值的激励作用，但有利于积累存储。 就好像，您想要积累更多美元，但不必额外用力去许愿您的美元变得更值钱。尽管这两种情况都有可能发生的。
 
-Remember the distance from 1 is the risk you take on (actually it is negative below 1!).
+GYRO 的最佳玩法是什么？
 
-Regardless of where you buy you can then stake your GYRO or provide it to the PancakeSwap pool as liquidity and bond the LP token.
+尽可能以接近或稍低于 1 USDT 的价格购买 GYRO。
 
-In both cases, you will earn more GYRO over time!
+请记住，与 1 USDT价格的距离是您得承担的风险（实际上它在 1 以下是负数！）。
 
-**Conclusion**
+无论您在从哪购买，您都可以质押 GYRO 或将它作为流动性资产提供给 PancakeSwap的资金池并绑定 LP 代币。
 
-Gyro’s aim is to offer a new class asset token that can be a part of any portfolio. It can be used to hedge risky assets while offering safer and better incentives than stablecoins.
+在这两种情况下，长期下来，您将能获得更多 GYRO币！
 

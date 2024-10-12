@@ -1,2 +1,2 @@
-# Tokenomics
+# 代币经济
 
