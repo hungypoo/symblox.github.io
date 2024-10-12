@@ -1,24 +1,24 @@
 ---
-description: Konfigurasi Metamask untuk menghubungkan ke Binance Smart Chain
+description: Configurar Metamask para conectarse a Binance Smart Chain
 ---
 
-# Konfigurasi Metamask
+# Configurar Metamask
 
-**Ikuti langkah-langkah dibawah untuk mengatur Metamask agar terhubung dengan BSC Mainnet**
+**Siga estos pasos para configurar Metamask para conectarse con BSC Mainnet**
 
-**A. Hubungkan MetaMask ke BSC Mainnet**
+**A. Conecte MetaMask a BSC Mainnet**
 
-* Pergi ke halaman settings
+* Ir a la página de configuración
 
-![Settings Page](<../.gitbook/assets/0 (2).png>)
+![Página de configuración](<../.gitbook/assets/0 (2).png>)
 
-* Tambahkan Network baru
+* Agregar una nueva red
 
-![Choose Networks](../.gitbook/assets/1.png)
+![Elija redes](../.gitbook/assets/1.png)
 
-![Adding Network](<../.gitbook/assets/2 (1).png>)
+![Agregar red](<../.gitbook/assets/2 (1).png>)
 
-![Add Binance Smart Chain Settings](../.gitbook/assets/3.png)
+![Agregar la configuración de Binance Smart Chain](../.gitbook/assets/3.png)
 
 * RPC: [https://bsc-dataseed1.binance.org](https://bsc-dataseed1.binance.org/)
 * ChainID: 56

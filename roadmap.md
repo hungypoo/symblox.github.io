@@ -1,23 +1,23 @@
-# 路线图
+# Roadmap
 
-未来发展蓝图
+**El camino a recorrer**
 
-GYRO不断地发展，让我们的社区可通过GYRO协议之下，使用更多终端用户便捷、持续性、有趣和有利益的方式来赚取收益。
+Gyro evoluciona constantemente para ofrecer formas más fáciles de usar, consistentes, divertidas y gratificantes para que nuestra comunidad gane a través de nuestro Protocolo.
 
 
 
-| 里程碑         | 预计日期      | 状态    |
-| ----------- | --------- | ----- |
-| 初型构建        | 2021年2月   | ✅完成   |
-| 启动前造势       | 2021年3月   | ✅完成   |
-| 未来选项基建      | 2021年4月   | ✅完成   |
-| 测试版         | 2021年7月   | ✅完成   |
-| IDO推行       | 2021年8月   | ✅完成   |
-| IDO后期营销活动   | 2021年9月   | ⏳ 进行中 |
-| DAO治理启动     | 2021年第四季度 | 🗓    |
-| 添加多元稳定币     | 2021年第四季度 | 🗓    |
-| 战略伙伴发布      | 2021年第四季度 | 🗓    |
-| 终端界面及用户体验更新 | 2021年第四季度 | 🗓    |
-| Gamify游戏化公告 | 2022年第一季度 | 🗓    |
-| 跨链整合        | 2022年第一季度 | 🗓    |
+| Milestone                             | Estimated Date  | Status        |
+| ------------------------------------- | --------------- | ------------- |
+| Compilación Alfa                      | Febrero 2021    | ✅Completado   |
+| Campaña de prelanzamiento             | Marzo 2021      | ✅Completado   |
+| Opciones de futuro                    | Abril 2021      | ✅Completado   |
+| Beta Test                             | Julio 2021      | ✅Completado   |
+| IDO                                   | Agosto 2021     | ✅Completado   |
+| Campaña de marketing posterior al IDO | Septiembre 2021 | ⏳ En progreso |
+| Gobernanza  DAO                       | Q4 2021         | 🗓            |
+| Añadir multi-stablecoins              | Q4 2021         | 🗓            |
+| Anuncio de partnership                | Q4 2021         | 🗓            |
+| Actualización UI/UX                   | Q4 2021         | 🗓            |
+| Anuncio de Gamificar la plataforma    | Q1 2022         | 🗓            |
+| Integración Cross-chain               | Q1 2022         | 🗓            |
 

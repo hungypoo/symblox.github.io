@@ -1,5 +1,5 @@
 ---
-description: Memaksimalkan Keuntungan dengan Staking
+description: Maximizing Returns with Staking
 ---
 
 # Staking
@@ -7,54 +7,56 @@ description: Memaksimalkan Keuntungan dengan Staking
 ![](<../.gitbook/assets/image (19).png>)
 
 \
-**Ikhtisar**
+**Vista previa**
 
-Staking Cryptocurrency berarti “mengunci” aset digital atau kamu juga bisa menjadi validator dalam jaringan kripto yang terdesentralisasi.&#x20;
+El staking de criptomonedas significa "bloquear" un activo digital o ser un validador en una red cripto descentralizada.&#x20;
 
-Staking merupakan strategi nilai akrual utama dari banyak protokol DeFi. Untuk Gyro sendiri para pengguna akan stake GYRO mereka melalui situs web dApp Gyro untuk mendapatkan bonus. Bonus ini berasal dari hasil penjualan bond dan bisa berubah berdasarkan jumlah GYRO yang distake ke dalam protokol dan tingkat bonus yang ditetapkan oleh kebijakan moneter algoritmik.&#x20;
+El staking es la principal estrategia de acumulación de valor de muchos protocolos DeFi. Para Gyro, los usuarios harían staking de su GYRO a través del sitio web dApp de Gyro para ganar recompensas. Estas recompensas se derivan de las ganancias de la venta de bonds y pueden variar según la cantidad de GYRO en staking dentro del protocolo y la tasa de recompensa que se establece mediante una política monetaria algorítmica.
 
-**Staking**&#x20;
+**Staking**
 
-Pada saat kamu staking, kamu akan:&#x20;
+Para stakear:
 
-**1**. Mengunci GYRO dan menerima sGYRO dalam jumlah yang sama.&#x20;
+**1.**Bloquea GYRO y recibe la misma cantidad de sGYRO.
 
-**2**. Saldo sGYRO kamu kemudian di rebase pada setiap akhir epoch secara otomatis.&#x20;
+**2.** Su saldo de sGYRO  se reactiva automáticamente al final de cada época.
 
-**3**. sGYRO bisa untuk ditransfer sehingga dapat digunakan melalui protokol DeFi lain.
+**3.** sGYRO puede ser elegible para ser transferido, por lo que es compatible con otros protocolos DeFi.
 
-Cara staking dengan mudah!&#x20;
+¡Hacerlo es fácil!
 
-**1**. Buka situs web Gyro dan pilih “stake”.&#x20;
+**1.** Vaya al sitio web de Gyro y seleccione "Stake".
 
-**2**. Kirim GYRO kamu ke kontrak staking dan terima sGYRO dengan basis 1:1.&#x20;
+**2.** Envíe su GYRO al contrato de staking y reciba sGYRO en un ratio 1:1.
 
-Ingat bahwa sGYRO merupakan token rebasing yang tidak dapat ditransfer juga tidak dapat untuk diperjualbelikan atau digunakan untuk apa pun kecuali holding.
+Recuerde que sGYRO es un token de rebase restringido a la transferencia, por lo que no está destinado a ser intercambiado ni utilizado para nada más que para holdear.
 
 **Unstaking**
 
-Pada saat kamu unstake, kamu perlu:
+Para desactivar el staking:
 
-**1.** Buka situs web kami dan pilih “unstake.” Kirim sGYRO kembali ke kontrak staking untuk menerima GYRO pada rasio 1:1.
+**1**. Vaya a nuestro sitio web y seleccione "unstake". Envíe sGYRO de vuelta al contrato de staking para recibir GYRO en un ratio 1:1.
 
-**2.** Bakar sGYRO kamu dan dapatkan GYRO dalam jumlah yang sama.
+**2.** Queme sus sGYRO y reciba una cantidad igual de GYRO.
 
-**3.** Unstaking juga mengharuskan pengguna untuk kehilangan hak rebase terbaru sebagai biaya keluar dari staking.
+**3.** Dejar de hacer staking también requiere que el usuario pierda el rebase más reciente como tarifa de salida.
 
 **Rebasing**
 
-Dalam cryptocurrency, rebasing adalah proses menyesuaikan nilai derivatif (sGYRO) ke basis dasarnya (GYRO).
+En criptomonedas, el rebase es el proceso de ajustar el valor de un derivado (sGYRO) a su base subyacente (GYRO).
 
-Karena protokol Gyro mendistribusikan GYRO dengan mengirimkannya ke kontrak staking tanpa meminta sGYRO kembali, hal ini akan meningkatkan rasio GYRO yang distake terhadap sGYRO yang beredar. Dengan demikian, rebase dihasilkan untuk memperbaiki perbedaan nilai.
+Debido a que el protocolo de Gyro distribuye GYRO enviándolos al contrato de participación sin solicitar la devolución de sGYRO, esto aumenta la proporción de GYRO en staking respecto a sGYRO. Por lo tanto, resulta en un rebase para corregir la diferencia.
 
-Misalnya: Ada sejumlah 100 ribu GYRO yang distake dan 100 ribu sGYRO yang beredar. Protokol menghasilkan keuntungan $5 ribu pada hari tersebut yang digunakan untuk mencetak dan dibackup sebesar 5 ribu GYRO. Kemudian GYRO tersebut dikirim ke kontrak staking; sehingga sekarang ada 105 ribu GYRO yang distake dan 100 ribu sGYRO yang beredar. Oleh karena itu pasokan sGYRO perlu ditingkatkan sebesar 5 ribu atau 5%, untuk kembali seimbang. Jadi, sGYRO di-rebase hingga 5%.
+Por ejemplo: hay 100k GYRO en staking y 100k sGYRO pendientes. El protocolo produjo una ganancia de $ 5k por día, que utiliza para acuñar y respaldar 5k GYRO. Envía a esos GYRO al contrato de staking; ahora hay 105k GYRO en stake y 100k sGYRO. El suministro de sGYRO debe aumentar en 5k, o 5%, para volver al equilibrio. Entonces, sGYRO se refuerza en un 5%.
 
-Rebase terjadi secara retroaktif. Misalnya, pada akhir epoch 10 menyebabkan rebase keuntungan dari epoch 9. Penundaan ini memungkinkan kamu melihat apa yang hilang jika kamu ingin untuk unstake atau apa yang akan didapatkan jika kamu ingin untuk stake.
+Los rebases se producen de forma retroactiva. Por ejemplo, al final de la época 10 se activa un nuevo rebase de ganancias de la época 9. Este retraso le permite ver lo que se está perdiendo si quiere dejar de hacer staking o lo que obtendrá si desea continuar.
 
-**Alasan untuk stake—Bunga Majemuk**&#x20;
+**La razón para stakear - Interés compuesto**
 
-Annual Percentage Yield (APY) merupakan ukuran untuk bunga majemuk. Hal ini berbeda dengan Annual Percentage Return (APR), yang merupakan ukuran untuk bunga sederhana. Staking pada Gyro memungkinkan pengguna untuk menerima bunga majemuk secara otomatis. Saat pengguna stake GYRO, mereka menerima sGYRO. sGYRO mewakili GYRO kami yang distake. sGYRO dapat ditukar dengan perbandingan 1:1 untuk GYRO, tetapi rebase untuk mendapatkan keuntungan. Ini berarti kita dapat menggabungkan hal tersebut; misalnya, setiap hari di minggu pertama kami melakukan rebased sebesar \~0,45% per epoch. Jika kamu memegang 100 GYRO, rebase pertama kamu minggu ini adalah sebesar 0,45 GYRO dan rebase terakhir minggu ini adalah 0,49 GYRO. Sebuah peningkatan 10% dari keuntungan! Jika kita menerapkan bunga sederhana, setiap epoch hanya akan menjadi 0,45 GYRO.
+El porcentaje de rendimiento anual (APY) es una medida de interés compuesto. Esto es diferente del rendimiento porcentual anual (APR), que es una medida de interés simple.
 
-**Kesimpulan**
+El staking en Gyro permite a los usuarios recibir interese compuestos automáticamente. Cuando los usuarios stakean GYRO, reciben sGYRO. sGYRO representa a nuestro GYRO en stake. sGYRO siempre se puede intercambiar 1:1 por GYRO, pero se reajusta para reflejar las ganancias. Por ejemplo, todos los días de nuestra primera semana reajustamos \~ 0.45% por época. Si tenía 100 GYRO, su primer rebase de la semana fue 0,45 GYRO y su último rebase de la semana fue 0,49 GYRO. ¡Esto es un aumento del 10% en el rendimiento! Si tuviéramos un interés simple, cada época sería 0.45 GYRO.
 
-Staking merupakan cara memperoleh keuntungan yang didistribusikan secara adil kepada para pengguna. Melalui sGYRO, setiap orang akan mendapatkan persentase keuntungan yang sama untuk setiap epoch. Oleh karena itu, rebasing juga memberi kita kesempatan untuk mengumpulkan hasil tanpa harus memanen atau melakukan apa pun selain holding.
+**Conclusión**
+
+El staking es la forma en que las ganancias se distribuyen de manera equitativa entre los participantes. A través de sGYRO, todos obtendrán el mismo porcentaje de beneficio para cada época. Por lo tanto, el acto de rebasar también nos da la oportunidad de aumentar los rendimientos sin tener que cosechar ni hacer nada más que holdear.

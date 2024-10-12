@@ -1,2 +1,2 @@
-# Basis
+# Información Básica
 

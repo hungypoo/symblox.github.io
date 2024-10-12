@@ -1,22 +1,22 @@
 ---
-description: Membeli GYRO di PancakeSwap
+description: Comprar GYRO en PancakeSwap
 ---
 
-# Cara Untuk Membeli GYRO
+# Cómo comprar GYRO
 
-**Cara untuk Membeli GYRO**
+**Cómo comprar GYRO**
 
-Pergi ke GYRO/USDT di PancakeSwap
+Vaya a GYRO / USDT en PancakeSwap
 
 * [https://pancakeswap.finance/swap?inputCurrency=0x55d398326f99059ff775485246999027b3197955\&outputCurrency=0x1b239abe619e74232c827fbe5e49a4c072bd869d](https://pancakeswap.finance/swap?inputCurrency=0x55d398326f99059ff775485246999027b3197955\&outputCurrency=0x1b239abe619e74232c827fbe5e49a4c072bd869d)
-* Centang kolom ‘I understand’ kemudian klik ‘Import’.
+* Marque "Comprendo" y luego haga clic en "Importar".
 
 ![](<../.gitbook/assets/0 (1).png>)
 
-* Dari halaman Swap Exchange, masukkan jumlah USDT yang ingin kamu beli kemudian klik ‘Enter’.
+* Desde Swap Exchange, ingrese la cantidad en USDT que desea comprar y luego haga clic en "Enter".
 
 ![](<../.gitbook/assets/1 (1).png>)
 
-* PancakeSwap memungkinkan untuk smart routing. Kamu dapat membeli GYRO dengan aset lain selain USDT (yaitu BNB, USDC, dll.). Klik 'USDT' dan popup akan muncul; menyediakan pilihan aset lain untuk dibeli.
+* PancakeSwap permite un enrutamiento inteligente. Puede comprar GYRO con otros activos además de USDT (es decir, BNB, USDC, etc.). Haga clic en "USDT" y aparecerá una ventana emergente; lo que le permite elegir otro activo para comprar.
 
 ![](../.gitbook/assets/2.png)

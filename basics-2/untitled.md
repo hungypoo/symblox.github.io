@@ -1,73 +1,70 @@
----
-description: Pertanyaan yang Paling Sering Ditanyakan
----
-
 # FAQ
 
-**Apa itu GYRO?** 🧬
+**¿Qué es Gyro?** 🧬
 
-Sebuah produk kelas aset baru yang memungkinkan investor cerdas membangun kekayaan mereka dengan melakukan pelindungan nilai. GYRO menggunakan mata uang yang didukung perbendaharaan terdesentralisasi di BSC yang mempertahankan nilai setidaknya 1$ USD. Namun, GYRO tidak berpatokan pada aset apapun, dan oleh sebab itu memiliki nilai lebih dari $1 USD yang memberikan potensi keuntungan besar bagi pemegangnya.
+Una nueva clase de activos que permite a los inversores inteligentes generar ganancias manteniéndose cubiertos. Es una moneda respaldada por una tesorería descentralizada en BSC que mantiene un valor de al menos 1 $ USD. Sin embargo, GYRO no está vinculado a nada y, por lo tanto, puede tener un valor de más de 1 $ USD, lo que brinda a sus poseedores un gran potencial de beneficios.
 
-**Mengapa GYRO ada?** 🔬
+**¿Por qué existe GYRO?** 🔬
 
-Dunia cryptocurrency dipenuhi dengan spekulasi, volatilitas pasar, dan ketidakpastian. Sedangkan investor dihadapkan pada skeptisisme ekstrim (weak hands) dan penilaian berlebihan (diamond hands). Gyro merupakan kelas aset baru dengan memperkenalkan solusi terbaik yang memungkinkan smart hands untuk melakukan pelindungan nilai.&#x20;
+El mundo de las criptomonedas está lleno de especulaciones, volatilidad del mercado e imprevisibilidad. Por lo tanto, los inversores están expuestos a extremos de escepticismo (weak hands) y sobreestimación (diamond hands). Gyro es una nueva clase de activos que introduce el término medio al permitir que los smart hands se protejan.
 
-Dengan memiliki kebijakan moneter sendiri dan tim proyek baru yang menstabilkan mata uang, Gyro mencoba untuk memecahkan banyak masalah yang ada pada mata uang fiat yang memiliki kekurangan karena tidak adanya nilai dasar, sentralisasi & hubungan dengan kepentingan pemerintah.
+Al tener su propia política monetaria y una cohorte de nuevos proyectos que estabilizan la moneda, resuelve muchos de los problemas inherentes a las monedas fiduciarias que tienen fallas por su falta de valor subyacente, centralización y asociación con los intereses de los gobiernos.
 
-**Bagaimana cara kerja GYRO?** 🔮
+**¿Cómo funciona GYRO? 🔮**
 
-Gyro merupakan sebuah mata uang yang didukung oleh stablecoin multi-aset, perbendaharaan dan cadangannya dikendalikan oleh protokol serta protokol yang diatur oleh komunitas.&#x20;
+Es una moneda respaldada por múltiples activos de monedas estables. Es una moneda cuyo tesoro y reserva están controlados por protocolo. Es una moneda impulsada por un protocolo gobernado por la comunidad.
 
-Pada dasarnya, Gyro terdiri dari perbendaharaan yang dikelola protokol, likuiditas yang dimiliki protokol, mekanisme bond, dan bonus staking cukup tinggi yang dirancang untuk mengontrol kenaikan pasokan.&#x20;
+En un nivel alto, Gyro consiste en su tesorería administrada por protocolo, liquidez propiedad del protocolo, mecanismo de bonds y altas recompensas de staking que están diseñadas para controlar la expansión de la oferta.
 
-Bond menghasilkan keuntungan untuk protokol, dan perbendaharaan menggunakan keuntungan tersebut untuk mencetak GYRO dan mendistribusikannya kepada para staker. Dengan LP bond, protokol mampu mengakumulasi likuiditas untuk memastikan stabilitas sistem
+Los Bonds generan ganancias para el protocolo, y la tesorería usa las ganancias para acuñar GYRO y distribuirlas a los stakers. Con el bond LP, el protocolo puede acumular liquidez para garantizar la estabilidad del sistema.
 
-**Mengapa GYRO berbeda dengan yang lain?** 🌀
+**¿En qué se diferencia GYRO?** 🌀
 
-Gyro memungkinkan investor untuk menghasilkan uang selama pasar mengalami periode penurunan kinerja karena selalu didukung, sepenuhnya terdesentralisasi, memberikan yield yang stabil dan memberikan layanan transaksi dengan kecepatan yang belum pernah terjadi sebelumnya. Gyro dianggap berbeda karena dapat menghasilkan keuntungan serta memiliki token berbasis komunitas dengan likuiditas ekstensif dan insentif kompetitif.
+Gyro permite a los inversores ganar dinero durante los mercados bajistas, ya que siempre está respaldado, totalmente descentralizado, proporciona rendimientos estables y facilita las transacciones a un ritmo sin precedentes. Gyro se diferencia por ser un token que genera intereses, impulsado por la comunidad, con una amplia liquidez e incentivos competitivos.
 
-**Apakah GYRO termasuk stablecoin?**
+**¿Es GYRO una moneda estable?**
 
-Tidak, GYRO bukanlah stablecoin. Sebaliknya, GYRO memiliki tujuan untuk menjadi mata uang cadangan algoritmik yang didukung oleh aset terdesentralisasi lainnya. Hampir serupa dengan standar emas, GYRO memberikan nilai bebas mengambang (free-floating) yang selalu dapat diandalkan oleh penggunanya, karena cadangan kas fraksional GYRO mengambil nilai intrinsiknya.
+No, GYRO no es una moneda estable. Más bien, GYRO aspira a convertirse en una moneda de reserva algorítmica respaldada por otros activos descentralizados. Similar a la idea del patrón oro, GYRO proporciona un valor flotante al que sus usuarios siempre pueden recurrir, simplemente debido a las reservas de tesorería fraccionarias de las que GYRO obtiene su valor intrínseco.
 
-**Apakah GYRO Didasarkan pada Dolar?** 💵
+**¿GYRO está vinculado al dólar? 💵**
 
-Tidak. Setiap GYRO didasarkan pada 1 USDT. Karena perbendaharaan mendasarkan setiap GYRO dengan setidaknya 1 USDT, protokol akan membeli kembali dan membakar GYRO ketika diperdagangkan di bawah 1 USDT. Ini memiliki efek mendorong harga GYRO kembali ke 1 USDT. GYRO selalu dapat diperjualbelikan diatas 1 USDT karena tidak ada batas atas yang diberlakukan oleh protokol. Didasarkan Dolar == 1, sementara didasarkan USDT > = 1.
+No. Cada GYRO está respaldado por 1 USDT, no vinculado a él. Debido a que la tesorería respalda a cada GYRO con al menos 1 USDT, el protocolo recompraría y quemaría GYRO cuando cotiza por debajo de 1 USDT. Esto tiene el efecto de hacer que el precio de GYRO vuelva a subir hasta 1 USDT. GYRO siempre puede operar por encima de 1 USDT porque el protocolo no impone un límite superior. Piense vinculado == 1, mientras que respaldado > = 1.
 
-Kamu mungkin mengatakan bahwa harga dasar atau nilai intrinsik GYRO adalah 1 USDT. Kami yakin bahwa harga sebenarnya akan selalu 1 USDT + premium, tetapi pada akhirnya tergantung pasar untuk menentukan.
+Se podría decir que el precio mínimo o valor intrínseco de GYRO es 1 USDT. Creemos que el precio real siempre será 1 USDT + premium, pero al final eso es decisión del mercado.
 
-**Siapa yang mengendalikan dana?**
+**¿Quién controla los fondos?**
 
-Karena protokol mengontrol dana dalam perbendaharaannya, GYRO hanya dapat dicetak atau dibakar oleh protokol. Hal ini juga menjamin bahwa protokol selalu dapat menjamin 1 GYRO dengan 1 USDT. Kamu dapat dengan mudah menentukan risiko investasi karena kamu yakin bahwa protokol akan membeli GYRO tanpa batas di bawah 1 USDT dengan aset treasury sampai tidak ada yang tersisa untuk dijual. Kamu tidak dapat mempercayai FED (Bank Sentral Amerika) tetapi dapat mempercayai kodenya.
+Como el protocolo controla los fondos en su tesorería, GYRO solo puede ser acuñado o quemado por el protocolo. Esto también garantiza que el protocolo siempre pueda respaldar 1 GYRO con 1 USDT. Puede definir fácilmente el riesgo de su inversión porque puede estar seguro de que el protocolo comprará GYRO de forma indefinida por debajo de 1 USDT con los activos de tesorería hasta que no quede nadie para vender. No puede confiar en la FED, pero puede confiar en el código.
 
-Karena protokol mengakumulasi lebih banyak likuiditas, maka akan ada jaminan keuntungan lebih banyak untuk para staker. Ini berarti para staker dapat meyakinkan diri bahwa APY staking saat ini dapat dipertahankan untuk jangka panjang karena lebih banyak dana tersedia di treasury.
+A medida que el protocolo acumula más liquidez, se garantiza más pista para los interesados. Esto significa que los interesados ​​pueden estar seguros de que el APY actual se puede mantener durante un plazo más largo porque hay más fondos disponibles en la tesorería.
 
-**Apa itu rebase?**
+**¿Qué es el rebase ?**
 
-Rebase adalah mekanisme ketika saldo GYRO (sGYRO) kamu yang distake meningkat secara otomatis. Ketika GYRO baru dicetak oleh protokol, sebagian besar akan masuk ke staker. Karena staker hanya melihat saldo GYRO (sGYRO) yang distake, bukan GYRO itu sendiri, protokol menggunakan mekanisme rebase untuk meningkatkan saldo GYRO (sGYRO) yang distake sehingga 1 GYRO (sGYRO) yang distake dapat ditukarkan dengan 1 GYRO.
+Rebase es un mecanismo por el cual el saldo de su GYRO (sGYRO) apostado aumenta automáticamente. Cuando el protocolo acuña nuevos GYRO, una gran parte va a los stakers. Debido a que los apostadores solo ven el saldo GYRO (sGYRO) stakeado en lugar de GYRO, el protocolo utiliza el mecanismo de rebase para aumentar el saldo GYRO en staking (sGYRO) de modo que 1 GYRO en stake (sGYRO) siempre se pueda canjear por 1 GYRO.
 
-**Apa itu bonus yield?**
+**¿Qué es el reward yield?**
 
-Hasil hadiah adalah persentase peningkatan saldo GYRO (sGYRO) kamu yang distake pada epoch selanjutnya. Hal ini disebut juga sebagai rebase rate.
+Reward yield es el porcentaje por el cual su saldo GYRO (sGYRO) en stake aumenta en la siguiente época. También se conoce como tasa de rebase.
 
-**Apa itu APY?**
+**¿Qué es APY?**
 
-APY merupakan singkatan dari annual percentage yield (persentase hasil tahunan). APY mengukur tingkat pengembalian riil atas aset pokok kamu dengan memperhitungkan efek bunga majemuk. Dalam Gyro, GYRO (sGYRO) kamu yang distake mewakili aset pokok, dan bunga majemuk ditambahkan secara berkala pada setiap epoch berkat mekanisme rebase.
+APY significa rendimiento porcentual anual. Mide la tasa real de rendimiento teniendo en cuenta el efecto del interés compuesto. En el caso de Gyro, su GYRO en stake (sGYRO) representa su capital, y el interés compuesto se agrega periódicamente en cada época, gracias al mecanismo de rebase.
 
-Satu fakta menarik tentang APY adalah bahwa saldo kamu akan tumbuh tidak secara linier tetapi secara eksponensial dari waktu ke waktu! Dengan asumsi bunga majemuk harian sebesar 2%, jika kamu memulai dengan saldo 1 GYRO pada hari ke 1, setelah satu tahun, saldo kamu akan tumbuh menjadi sekitar 1377.
+¡Un hecho interesante sobre APY es que su saldo no crecerá linealmente sino exponencialmente con el tiempo! Suponiendo un interés compuesto diario del 2%, si comienza con un saldo de 1 GYRO el día 1, después de un año, su saldo aumentará a aproximadamente 1377.
 
-**Mengapa saya harus stake GYRO?**
+**¿Por qué debería stakear GYRO?**
 
-Saldo GYRO kamu akan tumbuh secara eksponensial dari waktu ke waktu berkat kekuatan compounding. Semisal kamu saat ini membeli GYRO di harga $400 dan pasar menentukan bahwa dalam waktu 1 tahun, nilai intrinsik GYRO akan menjadi $2. Dengan asumsi tingkat bunga majemuk harian sebesar 2%, saldo kamu akan tumbuh menjadi sekitar 1377 GYRO pada akhir tahun, yang bernilai sekitar $2754. Sungguh sebuah keuntungan $2354 yang keren! Sekarang kamu harus memahami bahwa kamu saat ini membayar premi untuk GYRO dengan bonus manfaat jangka panjang. Dengan demikian, kamu harus memiliki batas waktu yang lama untuk memungkinkan saldo GYRO tumbuh secara eksponensial dan menjadikannya investasi yang berharga.
+Su saldo GYRO crecerá exponencialmente con el tiempo gracias al poder de la capitalización. Supongamos que compra un GYRO por $ 400 ahora y el mercado decide que dentro de 1 año, el valor intrínseco de GYRO será de $ 2. Suponiendo una tasa de interés compuesta diaria del 2%, su saldo aumentaría a aproximadamente 1377 GYRO para fin de año, lo que equivale a alrededor de $ 2754. ¡Esa es una ganancia genial de $ 2354! A estas alturas, debe comprender que está pagando por GYRO ahora a cambio de un beneficio a largo plazo. Por lo tanto, debe tener un horizonte de tiempo largo para permitir que su saldo GYRO crezca exponencialmente y hacer de esta una inversión que valga la pena.
 
-**Apa yang akan menjadi nilai intrinsik GYRO di masa depan?**
+**¿Cuál será el valor intrínseco de GYRO en el futuro?**
 
-Tidak ada jawaban pasti untuk pertanyaan ini, tetapi nilai intrinsik dapat ditentukan oleh kinerja treasury. Misalnya, jika treasury dapat menjamin untuk membackup setiap GYRO dengan 100 USDT, maka nilai intrinsiknya adalah 100 USDT. Hal ini juga dapat ditentukan oleh DAO. Misalnya, jika DAO menentukan untuk menaikkan harga dasar GYRO, maka nilai intrinsiknya akan naik.
+No hay una respuesta clara para esto, pero el valor intrínseco puede ser determinado por el desempeño de la tesorería. Por ejemplo, si el tesoro pudiera garantizar respaldar cada GYRO con 100 USDT, el valor intrínseco será de 100 USDT. También puede ser decidido por el DAO. Por ejemplo, si el DAO decide subir el precio mínimo de GYRO, su valor intrínseco aumentará en consecuencia.
 
-**Bagaimana protokol mengatur untuk menjaga APY staking tetap tinggi?**
+**¿Cómo se las arregla el protocolo para mantener un APY de altas recompensas?**
 
-Misalnya protokol menargetkan APY sebesar 100.000%. Hal tersebut berarti rebase rate bernilai sekitar 0,6328%, atau pertumbuhan harian sekitar 2%. Jika ada 100.000 GYRO yang distake saat ini, protokol perlu mencetak 2000 GYRO tambahan untuk mencapai pertumbuhan harian tersebut. Nilai ini dapat dicapai jika protokol tersebut dapat menghasilkan setidaknya 2000 USDT setiap hari dari penjualan bond. Namun apabila protokol gagal mencapai target, 100.000% APY tidak dapat diwujudkan.
+Supongamos que el protocolo apunta a un APY del 100.000%. Esto se traduciría en una tasa de rebase de alrededor del 0,6328%, o un crecimiento diario de alrededor del 2%. Si hay 100,000 de GYRO apostados en este momento, el protocolo necesitaría acuñar 2000 GYRO adicionales para lograr este crecimiento diario. Esto se puede lograr si el protocolo puede generar al menos 2000 USDT diarios de la venta de bonds. Si el protocolo no logra esto, no se puede garantizar un APY del 100.000%.
 
-**Apakah saya harus unstake dan stake GYRO di setiap Epoch untuk mendapatkan bonus rebase saya?**
+**¿Tengo que volver a poner en staking  GYRO en cada época para obtener mis recompensas de rebase?**
 
-Tidak. Setelah kamu stake GYRO (sGYRO) dengan GYRO, saldo GYRO (sGYRO) kamu akan digabungkan secara otomatis pada setiap epoch. Peningkatan saldo tersebut menandakan bonus rebase kamu.
+No. Una vez que haya stakeado GYRO (sGYRO) con GYRO, su saldo GYRO en stake (sGYRO)  autocompound en cada época. Ese aumento en el saldo representa las recompensas de su rebase.
+

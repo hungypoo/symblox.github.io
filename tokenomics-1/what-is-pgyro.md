@@ -1,37 +1,37 @@
 ---
-description: Opsi Futures dari pGYRO
+description: pGYRO - Opciones de futuros
 ---
 
-# Apa itu pGYRO
+# ¿Qué es pGYRO?
 
-**Opsi Futures**
+**Opciones de futuros**
 
-Mengoperasikan sebuah proyek memang tidak murah apalagi gratis; semua ada biayanya. Dalam rangka untuk membantu kami dalam membayar pengembangan, pemasaran, audit, dll., kami mengadakan putaran pendanaan pribadi dengan beberapa investor individu yang kami kenal dan percayai.&#x20;
+Operar un proyecto no es barato ni gratuito; todo tiene un costo. Para ayudarnos a pagar el desarrollo, el marketing, las auditorías, etc., realizamos una ronda de financiación privada con algunos inversores individuales que conocíamos y en los que confiamos.&#x20;
 
-Karena GYRO tidak bisa melakukan pre-mined, kami menawarkan pGYRO sebagai prekursor derivatif GYRO. Pemegang memiliki opsi untuk mencetak GYRO dengan membakar pGYRO dan nantinya akan memberikan nilai intrinsik GYRO (1 USD).
+Debido a que GYRO no se puede extraer previamente, ofrecimos pGYRO como un derivado precursor de GYRO. Los poseedores tienen la opción de acuñar GYRO quemando pGYRO y proporcionando el valor intrínseco de GYRO (1 USD).
 
 **Tokenomics**
 
-Tim, investor, dan penasihat pGYRO secara kumulatif melakukan vest 10% dari pasokan GYRO. Misalnya: Jika pasokan beredar sebanyak 1 juta GYRO, maka maksimum 100 ribu pGYRO dapat ditukarkan. Pada saat pasokan GYRO mencapai 10 juta, maka maksimum 1 juta pGYRO dapat ditukarkan.&#x20;
+El equipo, los inversores y los asesores pGYRO se consolidan acumulativamente como el 10% del suministro de GYRO. Por ejemplo: si existe 1m de suministro circulante GYRO, se puede canjear un máximo de 100k pGYRO. Con un suministro de 10 m GYRO, se puede canjear un máximo de 1 m pGYRO.&#x20;
 
-Karena penukaran pGYRO didasarkan pada pasokan, hal ini berarti bahwa pemegang hanya dapat sepenuhnya menukar pGYRO yang vested ketika pasokan GYRO berada diangka \~ 5 miliar. Sebenarnya ada banyak potensi keuntungan bagi pemegang pGYRO; tetapi hal itu tergantung pada pertumbuhan protokol.
+Debido a que el canje de pGYRO se basa en el suministro, esto significa que los titulares solo pueden canjear por completo su pGYRO adquirido cuando el suministro circulante de GYRO es \~ 5b. Existe un gran potencial alcista para los tenedores de pGYRO; pero depende del crecimiento real del protocolo.
 
-**Contoh:**
+**Ejemplo:**
 
-Jika seorang investor membeli 1 juta pGYRO dan pasokan yang beredar adalah 1 juta GYRO; rumus untuk menghitung jumlah yang dapat ditukar oleh investor adalah:&#x20;
+Si un inversor compró 1 millón de pGYRO y el suministro circulante es de 1 millón de GYRO; la fórmula para calcular la cantidad que un inversor puede canjear es:
 
-**(Jumlah bagian yang dibeli / Jumlah total bagian) x (Suplai Beredar x 2%) = Jumlah yang dapat ditukarkan**&#x20;
+**(Cantidad de acciones compradas / Cantidad total de acciones) x (Oferta circulante x 2%) = Cantidad rescatable**
 
-(1m pGYRO / 450m pGYRO) x (1m GYRO x 2%) = 44,44 pGYRO dapat ditukarkan
+(1m pGYRO / 450m pGYRO) x (1m GYRO x 2%) = 44.44 pGYRO canjeables
 
-**Rincian**
+**Desglose**
 
-**Tim**: 400 juta pGYRO dan 7% dari total pasokan&#x20;
+**Equipo:** 400m pGYRO y 7% de supply
 
-**Investor:** 50 juta pGYRO dan 2% dari total pasokan&#x20;
+I**nversores:** 50m pGYRO y 2% de supply
 
-**Penasihat:** 50 juta pGYRO dan 1% dari total pasokan&#x20;
+**Advisors:** 50m pGYRO y 1% supply
 
-**DAO:** 500 juta pGYRO dan tidak ada batas pasokan (Komunitas dapat menentukan hal tersebut)
+**DAO:** 500m pGYRO y sin límite de supply (La comunidad puede votar sobre esto)
 
-![Supply Distribution](<../.gitbook/assets/Asset 6Token.png>)
+![Distribución del Supply](<../.gitbook/assets/Asset 6Token.png>)

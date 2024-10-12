@@ -1,24 +1,24 @@
-# Cara untuk Stake
+# Cómo Stakear
 
 ![How To Stake](<../.gitbook/assets/1 oNJRvjjhyFHPChygM8tDpA.gif>)
 
 \
-**1.**  Klik “**Stake Menu”** di bagian atas.
+**1.**  Hz click “**Stake Menu”** en la parte superior.
 
 ![](<../.gitbook/assets/image (39).png>)
 
-**2.** Tentukan **jumlah GYRO** yang ingin kamu gunakan untuk staking.
+**2.** Elige la **cantidad de GYRO** que quieres utilizar para staking.
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (15).png>)
 
-**3.** Klik di tombol “**Stake”**.
+**3.** Haz click en el botón “**Stake”** en la parte inferior.
 
 ![](<../.gitbook/assets/image (10).png>)
 
-**4. Konfirmasi** transaksi untuk menyekesaikan.
+**4. Confirma** la transacción para finalizar.
 
 ![](<../.gitbook/assets/image (11).png>)
 
-**Mengapa saya mendapatkan sGYRO saat melakukan staking?**&#x20;
+**¿Por qué obtengo sGYRO al stakear?**
 
-sGYRO merupakan GYRO yang distake. Dengan menggunakan sGYRO, protokol dapat secara otomatis me-rebase GYRO yang distake. Dengan rebasing, bunga majemuk secara otomatis ditambahkan ke aset pokok, kamu juga berkesempatan untuk mendapatkan bonus.
+sGYRO - GYRO stakeado - Al usar sGYRO, el protocolo puede rebasar automáticamente GYRO stakeado. Al hacer el rebase de esta manera, el rendimiento compuesto se aplica automáticamente al capital, lo que permite obtener verdaderas recompensas.

@@ -1,28 +1,28 @@
 ---
-description: Menambahkan token GYRO ke dompet kamu
+description: Agregar tokens GYRO a tu wallet
 ---
 
-# Menambahkan token GYRO ke Metamask
+# Agregar tokens GYRO a Metamask
 
-**Tambahkan token GYRO ke Metamask**
+**Agregar tokens GYRO a Metamask**
 
-* Buka Metamask. Klik tab ‘Assets’ kemudian klik tombol ‘Add Token’.
+* Abra Metamask. Haga clic en la pestaña "Activos" y luego haga clic en el botón "Agregar token".
 
 ![](../.gitbook/assets/0.png)
 
-* Tempel Alamat Kontrak untuk GYRO pada bagian ‘Token Contract Address’. Pengaturan selanjutnya akan terisi secara otomatis.
+* Pegue la dirección del contrato para GYRO en el campo "Dirección del contrato del token". El resto de la configuración se completará automáticamente.
 
 ![](<../.gitbook/assets/1 (2).png>)
 
-* **GYRO Contract Address Settings**
-  * Token Contract Address: 0x1B239ABe619e74232c827FBE5E49a4C072bD869D
-  * Token Symbol: GYRO
-  * Token Decimal: 9
+* **Configuración de la dirección del contrato GYRO**
+  * Dirección del contrato de token: 0x1B239ABe619e74232c827FBE5E49a4C072bD869D
+  * Símbolo de token: GYRO
+  * Decimales del Token: 9
 * **sGYRO Contract Address Settings**
-  * Token Contract Address: 0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058
-  * Token Symbol: sGYRO
-  * Token Decimal: 9
+  * Dirección del contrato del token: 0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058
+  * Símbolo del token: sGYRO
+  * Decimales del Token: 9
 * **pGYRO Contract Address Settings**
-  * Token Contract Address: 0x54988a78d2211d2d7cdd1d719934e33e2b02899e
-  * Token Symbol: pGYRO
-  * Token Decimal: 9
+  * Dirección del contrato del token: 0x54988a78d2211d2d7cdd1d719934e33e2b02899e
+  * Símbolo del token: pGYRO
+  * Decimales del Token: 9

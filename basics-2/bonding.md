@@ -6,64 +6,57 @@ description: Bonding 101
 
 ![](<../.gitbook/assets/image (29).png>)
 
-**Apa itu Bonds?**
+**¿Qué son los Bonds?**
 
-Bonds mengacu pada proses perdagangan token Penyedia Likuiditas (LP) untuk token GYRO dengan harga diskon (di bawah harga pasaran).
+Los bonds se refieren al proceso de negociación de tokens de proveedor de liquidez (LP) por tokens GYRO con descuento (por debajo del precio de mercado).&#x20;
 
-Dengan Gyro, proses pembelian bond telah disederhanakan menjadi proses satu langkah. Daripada kamu membeli token LP kemudian memperjualbelikan untuk Bonds, pengguna hanya perlu memiliki pair aset (USDT + GYRO) di dompet mereka untuk membeli bonds secara langsung.
+Con Gyro, el proceso de compra de bonds se ha simplificado a un proceso de un solo paso. En lugar de tener que comprar los tokens LP y luego cambiarlos por bonds, los usuarios solo necesitan tener el par de activos (USDT + GYRO) en su billetera para comprar los bonds directamente.&#x20;
 
-Bonds divest selama 5 hari dan dibayarkan sesuai dengan tingginya block. Misalnya, jika kamu membeli bond, setelah hari pertama kamu akan menerima 20% dari jumlah vest; kemudian menjadi 40% setelah hari kedua, dan begitu seterusnya.
+Los bonds tienen una duración de 5 días y se pagan por altura de bloque. Por ejemplo, si tuviera que comprar un bond, después del primer día habría recibido el 20% del monto adquirido; luego 40% después del segundo día, etc.
 
-**Mengapa ada Bond?**
+**¿Por qué comprar Bonds?**
 
-Sederhananya bond memungkinkan kamu untuk membeli GYRO dengan biaya lebih rendah. Sebagai keuntungan dari menjual pair aset (LP), protokol akan menjual GYRO kepada kamu dengan harga diskon. Secara konsep bond akan memberikan kamu sejumlah GYRO lebih banyak daripada kamu membelinya di market dan kemudian distake. Besarnya bonus akan ditentukan oleh berapa banyak bond yang telah tersedia.
+Simplemente, le permite comprar GYRO a un costo menor. A cambio de vender su par de activos (LP), el protocolo le venderá GYRO con un descuento. La idea aquí es que los bonds le darán una cantidad más de GYRO de lo que hubiera recibido si hubiera comprado en el mercado y luego stakeado. La cantidad de “cuánto más” vendrá determinada por la cantidad de bonds que ya estén disponibles.
 
-**Mari kita telusuri bagaimana contoh Bond di Gyro.**
+**Repasemos un ejemplo de bond**
 
-1\. Pada saat harga GYRO $500 dan kamu memiliki $1.000USD, dengan jumlah tersebut kamu dapat membeli 2 GYRO dan menstakingnya.
+1. Cuando el precio de GYRO es de $ 500 y usted tiene $ 1,000 USD. Con esa cantidad de dinero en efectivo, puede comprar 2 GYRO y stakear.
+2. El stake rendirá \~ 0,6% por época, por lo que durante un período de vesting  (15 épocas), su apuesta aumentará de 2 GYRO a 2.185 GYRO.
+3. Si el precio del bond es $450, en lugar de comprar directamente, podrías comprar 1 GYRO por $500, añadir 1 GYRO y $500 al pool, y vincular la liquidez al pool para obtener un valor bloqueado de 2.22 GYRO.
+4. Durante los próximos cinco días, puede reclamar esos GYRO mientras se mantienen en el periodo de vesting o bloqueo, hasta que finalice el plazo y tenga el monto total.
+5. ¡La estrategia se vuelve interesante cuando se toman en cuenta las recompensas del bonding!
+6. Antes del final de cada época, puede reclamar las recompensas acumuladas y el staking, lo que significa que obtendrá tanto el descuento como las recompensas de stake.
+7. Por otra parte, podría, al final del plazo, agregar 2.22 GYRO más $ 1110 al fondo para obtener nuevos LP y crear otro bond.
+8. Hacer esto reducirá los costos porque ya obtuvo su GYRO con un descuento y ahora está obteniendo otro descuento en la siguiente ronda.
 
-2\. Staking akan memberikan yield sebesar \~0.6% per epoch dan selama jangka waktu vesting (15 epoch) jumlah token stake kamu akan meningkat dari semula 2 GYRO menjadi 2.185 GYRO.
+En esta estrategia puedes hacer ambas cosas:
 
-3\. Jika harga bond ada di angka $450, daripada kamu membelinya langsung, lebih baik kamu beli 1 GYRO seharga $500 kemudian tambahkan 1 GYRO dan $500 ke pool, kemudian bond pada bagian likuiditas yang nantinya kamu akan dapatkan kembali dengan kondisi terkunci di 2.22 GYRO.
+1 .   Reclama las recompensas y el stakear antes del final de cada época.
 
-4\. Selama lima hari ke depan, kamu juga dapat mengklaim GYRO sebagai vest hingga jangka waktu telah terpenuhi dan tentu saja kamu akan memiliki jumlah utuh.
+2 .   Luego, cuando haya terminado el tiempo de bloqueo, ¡puedes retirar todo lo que tengas en staking y volver a comprar bonds!
 
-5\. **Strategi** akan menjadi menarik ketika kamu memperhitungkan bonus dari bond!
+**Creando un bond**
 
-6\. Sebelum akhir setiap epoch, kamu bisa mengklaim bonus dan staking yang diperoleh. Hal ini bisa diartikan kamu telah mendapatkan diskon dan bonus staking
+Vaya al sitio web de Gyro y seleccione la pestaña "Bond". El protocolo cotizará la cantidad de GYRO y un período de adquisición de derechos para la operación. Necesitaría tener el par de activos (USDT + GYRO) en su billetera para comprar el bond.
 
-7\. Atau bisa juga di akhir periode, kamu tambahkan 2,22 GYRO serta $1110 ke pool untuk mendapatkan LP baru dan membuat bond lain.
+**Canjear un bond**
 
-8\. Melakukan hal tersebut akan menurunkan harga Gyro karena kamu telah mendapatkan potongan harga sebelumnya dan kamu nantinya mendapatkan diskon lagi di putaran berikutnya.
+En el sitio web de Gyro, seleccione la pestaña "Bond", luego haga clic en el submenú "Redeem". El protocolo recordará cuándo se unió y su plazo de otorgamiento. Si tiene recompensas pendientes, puede reclamarlas.
 
-9\. Dalam **strategi** ini kamu dapat melakukan keduanya:
+Las recompensas se acumulan durante el período de adquisición de vesting. Nota: sGYRO es el token de acumulación de ganancias del protocolo y dado que los bonders ganan GYRO (no sGYRO), los stakers obtienen el 100% de las ganancias del protocolo (menos lo otorgado al DAO). Consulte nuestro artículo sobre staking para obtener más información.
 
-1\. Klaim hadiah dan stake sebelum akhir setiap epoch,&#x20;
+**Algunos puntos clave sobre el bonding**
 
-2\. Kemudian ketika kamu selesai melakukan vesting, unstake semuanya dan rebond!
+Los bonds le brindan la oportunidad de comprar GYRO en el protocolo con un descuento. Aquí hay algunas diferencias a tener en cuenta:
 
-**Cara Membeli Bond**
+1\. **Pagas por GYRO con liquidez.** Este aspecto ayuda al protocolo a acumular acciones de liquidez.
 
-Buka situs web Gyro dan pilih tab 'Bond'. Protokol akan memberikan data jumlah GYRO dan periode vesting untuk trade. Kamu harus memiliki pair aset (USDT + GYRO) di dompetmu untuk membeli bond.
+2\. **NO GYRO al frente.** En cambio, su GYRO se adquiere en el transcurso de cinco días. Esto suaviza los impactos en el mercado de la nueva oferta de GYRO.
 
-**Menukarkan Bond**
+3\. **La demanda de bonds determinará su descuento.** Los descuentos en los bonds aumentan cuando hay más bonds y disminuyen cuando hay menos.
 
-Di situs web Gyro, pilih tab 'Bond', lalu klik submenu 'Redeem'. Protokol akan memberikan informasi kapan kamu bond dan berapa lama masa vesting. Jika kamu memiliki bonus, kamu juga dapat mengklaimnya. Bonus akan bertambah sepanjang periode vesting.
+4\. **Una vez que se une, su compromiso de LP está bloqueado.** Cuando ha ejecutado una operación, ha realizado la operación. Piense en ello como comprar GYRO y comprometerse a stakear durante 5 días con una tasa de recompensa establecida.
 
-Catatan: sGYRO merupakan token yang diperoleh dari keuntungan protokol dan karena bonder mendapatkan GYRO (bukan sGYRO), sedangkan para staker mendapatkan 100% dari keuntungan protokol (dikurangi potongan dari DAO). Silakan lihat artikel kami mengenai staking untuk info lebih lanjut.
+**Conclusión**
 
-**Beberapa hal penting tentang Bonding**
-
-Bond memberi kamu kesempatan untuk membeli GYRO dari protokol dengan harga diskon. Berikut adalah beberapa perbedaan yang perlu diperhatikan:
-
-1\. **Kamu perlu membayar GYRO dengan likuiditas**. Aspek ini membantu protokol mengakumulasikan pembagian likuiditas.
-
-2\. **TIDAK ADA GYRO di awal bond**. Sebagai gantinya, GYRO kamu akan divest selama lima hari. Hal ini akan mengurangi dampak market karena pasokan baru GYRO.
-
-3\. **Jumlah permintaan bond akan mempengaruhi jumlah diskon yang kamu peroleh**. Diskon bond akan meningkat ketika ada banyak permintaan bond, dan akan menurun ketika jumlahnya lebih sedikit
-
-4\. **Setelah kamu melakukan bond, komitmen LP akan terkunci**. Ketika kamu telah melakukan trade, secara otomatis kamu juga telah menyelesaikan trade. Anggap saja kamu membeli GYRO dan berkomitmen untuk menstake selama 5 hari dengan tingkatan bonus yang telah ditentukan.
-
-**Kesimpulan**
-
-Bonding tidak hanya memungkinkan pengguna untuk membeli GYRO dengan harga diskon, tetapi juga dapat digunakan sebagai bagian dari strategi investasi multi-langkah untuk menghasilkan bunga majemuk.
+El bonding no solo permite a los usuarios comprar GYRO con descuento, sino que también se puede utilizar como parte de una estrategia de inversión de varios pasos para obtener rendimientos compuestos.

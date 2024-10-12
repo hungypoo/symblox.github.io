@@ -1,38 +1,38 @@
-# Cara untuk Bond
+# Cómo usar los Bonds
 
 ![](<../.gitbook/assets/1 pB9cX71sKeiIL-Dn0ooljw.gif>)
 
 \
-**1.** Klik “**Bond Menu”** di bagian atas, kemudian pilih “**Buy Bond”**.
+**1.** Hz clic en “**Bond Menu”** en la parte superior, después elige “**Buy Bond”**.
 
 ![](<../.gitbook/assets/image (17).png>)
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (21).png>)
 
-**2.** Masukkan sejumlah **GYRO **_**atau**_** USDT** yang ingin kamu beli. Dapp akan secara otomatis menghitung jumlah untuk pair aset lain.
+**2.** Ingrese la cantidad en **GYRO **_**o**_** USDT** que desea comprar. La dapp calculará automáticamente la cantidad para el otro par de activos.
 
-* Pada saat membeli bonds kamu harus memasukkan nilai yang sama antara GYRO dan USDT
+* Comprar bonds requiere agregar el mismo valor para GYRO y USDT.
 
 ![](<../.gitbook/assets/image (33).png>)
 
 ![](<../.gitbook/assets/image (40).png>)
 
-Sebagai contoh, **1 GYRO = $ 57.254**
+En este ejemplo, **1 GYRO = $ 57.254**
 
-* Protokol **secara otomatis melakukan perhitungan**.
+* El protocolo **realiza automáticamente el cálculo por usted**.
 
 ![](<../.gitbook/assets/image (45).png>)
 
-* Sebelum membeli bond, **cek diskon** yang dipakai oleh protokol, yang juga akan kamu terima dan relatif terhadap harga pasar pada saat itu untuk token GYRO.
+* Antes de comprar el bond, **verifique el descuento que aplica el protocolo**, este será el descuento que recibirá respecto al precio de mercado en ese preciso momento para GYRO.
 
 ![](<../.gitbook/assets/image (26).png>)
 
-* Periode vesting akan berlangsung selama 5 hari. Kamu dapat menukarkan GYRO sesuai dengan tingginya blok.&#x20;
+* El periodo de vesting (bloqueo) son 5 días. Podrás canjear GYRO cada altura de bloque.&#x20;
 
-**3.** Klik pada tombol **“Buy Bond”** dibagian bawah.
+**3.** Haz click en el botón **“Buy Bond”** en la parte inferior.
 
 ![](<../.gitbook/assets/image (28).png>)
 
-**4.** **Konfirmasi** transaksi untuk menyelesaikan.
+**4.** **Confirma** la transacción para finalizar.
 
 ![](<../.gitbook/assets/image (41).png>)
