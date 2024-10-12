@@ -1,23 +1,28 @@
 # Roadmap
 
-**Perjalanan ke depan**&#x20;
+**The journey ahead**
 
-Gyro terus berkembang untuk menawarkan fitur yang lebih ramah bagi pengguna, konsisten, menyenangkan, dan bermanfaat bagi komunitas untuk memperoleh keuntungan melalui Protokol kami.&#x20;
+Gyro is constantly evolving to offer more user-friendly, consistent, fun and rewarding ways for our community to earn through our Protocol.
 
 
 
-| Tahapan Proses                | Tanggal Perkiraan | Status         |
-| ----------------------------- | ----------------- | -------------- |
-| Alpha Build                   | Februari 2021     | ✅Selesai       |
-| Kampanye Pra Peluncuran       | Maret 2021        | ✅Selesai       |
-| Future Options                | April 2021        | ✅Selesai       |
-| Pengujian Beta                | Juli 2021         | ✅Selesai       |
-| IDO                           | Augustus 2021     | ✅Selesai       |
-| Kampanye Pemasaran Pasca IDO  | September 2021    | ⏳ Dalam proses |
-| Governance DAO                | Q4 2021           | 🗓             |
-| Penambahan multi-stablecoins  | Q4 2021           | 🗓             |
-| Pengumuman Kerjasama          | Q4 2021           | 🗓             |
-| Pembaruan UI/UX               | Q4 2021           | 🗓             |
-| Pengumuman Gamify             | Q1 2022           | 🗓             |
-| Integrasi Cross-chain         | Q1 2022           | 🗓             |
+| **Milestone**               | **Estimated Date** | **Status**                            |
+| --------------------------- | ------------------ | ------------------------------------- |
+| Alpha Build                 | February 2021      | ✅Completed                            |
+| Pre-launch Campaign         | March 2021         | ✅Completed                            |
+| Future Options              | April 2021         | ✅Completed                            |
+| Beta Testing                | July 2021          | ✅Completed                            |
+| IDO                         | August 2021        | ✅Completed                            |
+| Post-IDO Marketing Campaign | September 2021     | ✅Completed                            |
+| Governance DAO              | Q4 2021            | ✅Completed                            |
+| Partnership Announcement    | Q4 2021            | ✅Completed                            |
+| v2 APY update               | Q1 2022            | ✅Completed                            |
+| Lending Phase 1             | Q1 2022            | :hourglass\_flowing\_sand:In progress |
+| Lending Phase 2             | Q1-Q2 2022         | :pushpin:Pending                      |
+| Black Magic Integration     | Q1 2022            | :hourglass\_flowing\_sand:In progress |
+| Yaggr Integration           | Q1 2022            | :hourglass\_flowing\_sand:In progress |
+| v2 UI/UX update             | Q1 2022            | 🗓                                    |
+| Adding multi-stablecoins    | Q1 2022            | 🗓                                    |
+| Gamify Announcement         | Q1-Q2 2022         | 🗓                                    |
+| Cross-chain Integration     | Q1-Q2 2022         | 🗓                                    |
 

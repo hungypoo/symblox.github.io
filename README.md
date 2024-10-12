@@ -1,80 +1,81 @@
 ---
-description: Gyro, kelas aset crypto baru
+description: Gyro, A new crypto asset-class
 ---
 
-# Pengantar
+# Introduction
 
 ![](<.gitbook/assets/image (4).png>)
 
 \
-Di dalam Crypto terdapat stablecoin yang merupakan mata uang digital yang didasarkan pada aset cadangan yang relatif “stabil” seperti dolar AS ataupun emas. Oleh karena itu, stablecoin saat ini telah menjadi trading pair utama di pasar crypto dan salah satu aset yang paling populer di DeFi. Seiring dengan kepopuleran stablecoin, saat ini nilai yang beredar telah menyentuh angka $111 miliar USD. Inilah sebabnya mengapa kamu melihat investor ritel dan institusional menggunakan stablecoin seperti USDT untuk melakukan pelindungan nilai terhadap Bitcoin.
+In Crypto there are stablecoins, which are a digital currency that are pegged to “stable” reserve assets such as the U.S. dollar or gold. Given this value, these sets of coins have become the primary trading pairs in crypto markets and one of the most popular assets in DeFi. So much so that there are currently $111 billion USD worth of stablecoins in circulation. This is why you see retail and institutional investors use stablecoins such as USDT to hedge against Bitcoin.
 
-Tetapi ada sebuah opsi yang lebih baik, yaitu: GYRO, yang bukan termasuk stablecoin. GYRO merupakan kelas aset crypto baru yang menarik serta memiliki kelebihan yang tidak dimiliki oleh stablecoin. Sebuah terobosan besar di ekosistem crypto karena mampu mengurangi profil risiko antara aset volatil seperti bitcoin dan berdasarkan pada stablecoin. Seperti yang kamu lihat sekarang, stablecoin mampu mencapai stabilitas nilai setara dengan USD, tetapi hal itu bukan berarti mereka stabil dalam hal daya beli dan/atau memiliki kemampuan mengembangkan nilai mereka.
+But there is a better option, GYRO, which isn’t a stablecoin. It is a new and exciting crypto asset class that has advantages that stablecoins do not. It is a ‘Goldie Locks’ or Lego piece in the crypto ecosystem because it mitigates the risk profile between volatile assets such as bitcoin and pegged stablecoins. You see, functional stablecoins can achieve the stability and value of USD, but that does not necessarily mean they are stable in purchasing power and/or have the ability to grow in value.
 
-Misalnya, jika kamu memasukkan satu aset dengan profil risiko (contohnya aset volatil seperti bitcoin) ke dalam portfolio, kamu berarti akan menambahkan risiko sistemik. Apabila kamu menambahkan Gyro ke portfolio, hal ini bisa menjadi alat untuk melindungi aset dengan profil tinggi (misalnya BTC, ETH, BNB) seperti yang dilakukan oleh USDT. Perbedaan utama Gyro dibandingkan dengan stablecoin adalah ia tidak terikat oleh sebuah keharusan untuk terikat pada USD.
+For instance, if you introduce one asset with a risk profile (i.e., a volatile asset like bitcoin) into your portfolio, you would be adding systemic risk. If you add Gyro to your portfolio, it can be a tool to hedge high profile assets (i.e., BTC, ETH, BNB) like USDT. Gyro’s game changing difference is that it breaks away from having to be pegged by the USD.
 
-Kamu mungkin bertanya-tanya “bukankah stablecoin telah melakukan hal itu?”
+You may be asking yourselves, “aren’t stablecoins already doing that?”&#x20;
 
-Jawabannya tentu saja iya, tetapi ingat bahwa sebagian besar stablecoin tersentralisasi dan menawarkan bunga atau bonus yang sangat sedikit atau tidak sama sekali. Sekali lagi, karena GYRO bukanlah sebuah stablecoin dan tidak didasarkan pada USD, hal ini menjadikannya lebih aman daripada stablecoin. Gyro dianggap sebagai pilihan yang lebih baik karena:
+And the answer would be yes, but remember that most stablecoins are centralized and offer very little or no interest or rewards. Again, because GYRO is not a stablecoin and is not pegged to USD, it is safer than stablecoins. Gyro is seen as an even better option because:
 
-·         menghasilkan keuntungan
+·       it earns interest
 
-·         selalu didasarkan oleh $1 USD (misalnya USDT, DAI, BUSD, USDC)
+·       is always backed by $1 USD (i.e. USDT, DAI, BUSD, USDC)
 
-·         sepenuhnya terdesentralisasi dengan pengelolaan berbasis komunitas
+·       is fully decentralized with community-driven governance
 
-·         menawarkan insentif kompetitif kepada para pengguna.
+·       offers competitive incentives to users.
 
-**Cara kerja investasi di GYRO.**
+**How investing in GYRO works.**
 
-Jadi, mari kita pahami dasar-dasarnya.
+So, let’s break down the basics.
 
-Setiap token GYRO didasarkan oleh 1 USD (misalnya USDT, DAI, BUSD, USDC) di treasury.
+Each GYRO token is backed by 1 USD (i.e. USDT, DAI, BUSD, USDC) in the treasury.
 
-Kami awalnya akan memulai dengan USDT sebagai aset treasury. Setelah peluncuran, kami akan menambahkan stablecoin lainnya untuk menyeimbangkan treasury, yang  akan mencakup DAI, BUSD, USDC, dll.
+We will initially start with USDT as our treasury asset. After launch, we will be adding other stablecoins to balance our treasury. This will include DAI, BUSD, USDC etc.
 
-Token tidak dapat dicetak atau dibakar oleh siapa pun kecuali oleh protokol.
+Tokens cannot be minted or burned by anyone except the protocol.
 
-Protokol hanya akan mencetak atau membakar token sebagai respons terhadap pergerakan harga.
+The protocol only mints or burns in response to price.
 
-GYRO tidak melakukan rebase. Sebaliknya, pasokan baru dibuat melalui penjualan langsung ke pasar dan dibakar melalui pembelian langsung dari pasar. Dengan cara ini, GYRO tetap didasarkan oleh aset riil di treasury, yakni USD.
+GYRO does not rebase. Instead, a new supply is created via direct sales into the market and burned via direct purchases from the market. This way, GYRO remains backed by real assets in the treasury, i.e., USD.
 
-Hal ini pada dasarnya bisa diartikan menjadi:
+These basically translates to:
 
-Pada saat GYRO diperdagangkan ↓ 1 USDT, protokol akan membelinya kembali dan membakar GYRO.
+When GYRO trades below ↓ 1 USDT, the protocol buys it back and burns GYRO.
 
-Pada saat GYRO diperdagangkan  ↑1 USDT, protokol akan mencetak dan menjual GYRO baru.
+When GYRO trades above ↑ 1 USDT, the protocol mints and sells new GYRO.
 
-Hal ini dikarenakan treasury harus memegang setidaknya 1 USDT dan hanya membutuhkan 1 USDT untuk tiap GYRO pada saat dibeli atau dijual sehingga menghasilkan keuntungan. Berarti protokol akan mendapatkan lebih dari 1 USDT dari sisi penjualan atau menjual kurang dari 1 USDT dari sisi pembelian.
+This is because the treasury must hold 1 USDT and only 1 USDT for each GYRO every time it is bought or sold so it makes a profit. That means the protocol either gets more than 1 USDT for the sale side or spends less than 1 USDT on the purchase side.
 
-Mengingat fakta bahwa protokol memegang USDT untuk setiap token membuat kami mampu menjamin bahwa GYRO tidak akan diperdagangkan di bawah nilai intrinsiknya dalam jangka panjang.
+The fact that the protocol holds USDT for each token allows us to say with certainty that GYRO will not trade below its intrinsic value in the long term.
 
-Investasi kemudian dapat dilakukan dengan risiko yang pasti karena 1 USDT adalah jaminan harga dasar dalam jangka panjang. Oleh karena itu, protokol dapat dan akan membeli tanpa batas di bawah 1 USDT sampai tidak ada penjual yang tersisa, bahkan jika pasokannya dikurangi menjadi 0. Pada event tersebut, akan ada hadiah besar untuk mereka yang tidak menjual tokennya karena akan mendapat bagian dari setiap token yang dibakar!
+Investments can then be made with defined risk because 1 USDT is the guaranteed long-term price floor. And because of this, the protocol can (and will) buy indefinitely below 1 USDT until no sellers remain, even if the supply is reduced to 0. In this example this event would reward those who did not sell immensely because they would end up with a chunk of every token that was burned!
 
-Menghold/memegang stablecoin sebagai basis token juga menciptakan peluang menghasilkan yield.
+Holding stablecoins to back tokens also creates a yield generation opportunity.
 
-Mengunci stablecoin di vault tentu saja akan percuma, mengingat bahwa protokol tidak pernah membutuhkan lebih dari beberapa persen cadangan, bahkan pada saat penurunan harga besar-besaran, kamu bebas menggunakan sisanya untuk dihubungkan ke yield aggregator dan menambahkan hasil tersebut kedalam keuntungan dari membeli dan menjual GYRO.
+Locking away stablecoins in a vault would then be a waste. Given that the protocol never needs more than a few percent of reserves, even on the largest of down days, means you are free to utilize the rest to plug into yield aggregators and add those proceeds onto profits from buying and selling GYRO.
 
-Distribusi keuntungan awal Gyro
+Gyro’s initial profit distribution
 
-90% untuk para staker
+90% to stakers
 
-10% untuk organisasi otonom terdesentralisasi atau DAO (alokasi ini akan diubah jika perlu, tergantung bagaimana keputusan DAO).
+10% to the decentralized autonomous organization or DAO (these allocations will be changed, if necessary, as decided by the DAO).
 
-Semua bonus dibayarkan dalam bentuk GYRO yang didasarkan oleh stablecoin.
+All rewards are paid in GYRO backed by stablecoins.
 
-Sistem ini akan mempertahankan nilai intrinsik yang stabil dan mengurangi peran insentif dari apresiasi yang mendukung akumulasi. Seperti halnya mata uang, kamu tentu akan mencoba mengumpulkan lebih banyak dolar dan tidak perlu berharap dolar menjadi lebih berharga. Meskipun keduanya bisa saja terjadi.
+This system maintains a stable intrinsic value and reduces the incentive role of appreciation in favor of accumulation. As with real currency, you try to accumulate more dollars and you do not have to wish upon a star that your dollars become worth more. Although both can happen.
 
-Apa penawaran terbaik dari GYRO?
+What is the best play with GYRO?
 
-Cobalah beli GYRO ketika mendekati atau di bawah 1 USDT sebanyak yang kamu bisa.
+Buy GYRO as close to or just below 1 USDT as you can.
 
-Ingat jarak dari 1 merupakan risiko yang kamu ambil (sebenarnya kurang dari di bawah 1!).
+Remember the distance from 1 is the risk you take on (actually it is negative below 1!).
 
-Kamu bisa membelinya dimanapun, kamu juga dapat stake GYRO atau menaruhnya ke pool PancakeSwap sebagai likuiditas dan mengikat token LP.
+Regardless of where you buy you can then stake your GYRO or provide it to the PancakeSwap pool as liquidity and bond the LP token.
 
-Intinya kedua cara tersebut membuat kamu berpeluang akan mendapatkan lebih banyak GYRO dari waktu ke waktu!
+In both cases, you will earn more GYRO over time!
 
-**Kesimpulan**
+**Conclusion**
 
-Tujuan Gyro adalah untuk menawarkan token aset kelas baru yang dapat menjadi bagian dari portfolio apapun. Selain itu juga dapat digunakan untuk melindungi aset berisiko sambil menawarkan insentif yang lebih aman dan lebih baik daripada stablecoin.
+Gyro’s aim is to offer a new class asset token that can be a part of any portfolio. It can be used to hedge risky assets while offering safer and better incentives than stablecoins.
+
