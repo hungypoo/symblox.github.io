@@ -1,70 +1,71 @@
-# 常见问题
+# FAQ
 
-**什么是Gyro ?** **🧬**
+**Ano ang GYRO?** 🧬
 
-它是一种全新的、定义类别的资产类别，它允许聪明的投资者通过对冲方式来积累财富。它通过币安链 (BSC) 上一种去中心化的库藏支持货币，其价值保持至少在1 美元价格。 然而，GYRO 不与任何资产挂钩，所以其价值可能超过 1 美元，为持有者提供巨大的上涨潜力。
+Isang bagong klase ng asset na tumutukoy sa kategorya na nagbibigay-daan sa mga matatalinong mamumuhunan na bumuo ng kanilang kayamanan sa pamamagitan ng hedging. Ito ay isang desentralisadong treasury-backed currency sa BSC na nagpapanatili ng halaga na hindi bababa sa 1$ USD. Gayunpaman, ang GYRO ay hindi naka-peg sa anumang bagay at samakatuwid ay maaaring magkaroon ng halagang higit sa 1$ USD na nagbibigay sa mga may hawak nito ng potensyal para sa mahusay na pagtaas.
 
-**GYRO存在目的？** **🔬**
+Ang Gyro ay isang desentralisadong reserbang currency protocol na may layuning bawasan ang pagkasumpungin ng mga tradisyonal na cryptocurrencies habang hindi naka-peg sa anumang fiat currency.
 
-加密货币市场充满了投机、市场高波动性且低预测性。 因此，投资者面临着极端的不确定性（弱手）和高估（钻石手）的风险。 Gyro 是一种新的资产类别，它通过聪明手(Smart Hand)进行对冲来进入中间地区。
+**Bakit umiiral ang GYRO?** 🔬
 
-它除了拥有自定的货币政策和引入一系列稳定货币的新项目，同时解决了法定货币的许多问题，包括缺乏潜在价值、中心化以及与政府利益等缺陷问题。
+Ang mundo ng mga cryptocurrency ay puno ng haka-haka, pagkasumpungin sa merkado at hindi mahuhulaan. Ang mga mamumuhunan ay samakatuwid ay nalantad sa sukdulan ng pag-aalinlangan at labis na pagpapahalaga. Ang Gyro ay isang bagong klase ng asset na nagpapakilala sa gitna sa pamamagitan ng pagpayag sa mga matalinong kamay na mag-hedge.
 
-**GYRO如何运作？** **🔮**
+Sa pamamagitan ng pagkakaroon ng sarili nitong patakaran sa pananalapi at isang pangkat ng mga bagong proyekto na nagpapatatag ng pera, nalulutas nito ang marami sa mga problemang likas sa mga fiat na pera na may depekto sa kanilang kakulangan ng pinagbabatayan na halaga, pagkakaugnay ng sentralisasyon sa mga interes ng mga pamahalaan.
 
-GYRO是一种由多资产稳定币支持的货币，并允许通过库藏和储备受协议控制的货币。 它是一种通过社区治理协议驱动的货币。
+**Paano gumagana ang GYRO?** 🔮
 
-在高层次上，Gyro的本质是通过”协议管理的库藏”、”协议管控的流动资金池”、”债券机制”和”控制供应量的高质押奖励收益”所组成。
+Ito ay isang currency na sinusuportahan ng multi-asset stablecoins. Ito ay isang pera kung saan ang treasury at reserba ay kontrolado ng protocol. Ito ay isang pera na hinimok ng isang protocol na pinamamahalaan ng komunidad.
 
-通过债卷(Bond)购币能为协议产生利润，库藏使用其产生的利润来铸造 GYRO代币，并将代币分配给质押者。 通过LP债券，协议能够积累流动性以确保系统的稳定性。
+Sa mataas na antas, ang Gyro ay binubuo ng protocol na pinamamahalaang treasury nito, protocol na pagmamay-ari ng liquidity, bond mechanism, at mataas na staking reward na idinisenyo para kontrolin ang pagpapalawak ng supply.
 
-**GYRO的独特之处？** **🌀**
+Ang Bond ay bumubuo ng tubo para sa protocol, at ang treasury ay gumagamit ng tubo para i-mint ang GYRO at ipamahagi ang mga ito sa mga staker. Sa LP bond, ang protocol ay nakakaipon ng liquidity upang matiyak ang katatagan ng systema.
 
-Gyro 允许投资者在熊市期间赚钱，因为它始终由资产支持、完全去中心化、提供稳定的收益并以超越以往的速度来促进交易。 Gyro 的不同之处在于它是一种赚取利息、社区治理的代币，具有广泛的流动性并能提供竞争性的激励收益。
+**Paano naiiba ang GYRO?** 🌀
 
-**GYRO** **是稳定币吗？**
+Ang Gyro ay nagbibigay-daan sa mga mamumuhunan na kumita ng pera sa panahon ng mga bear market dahil ito ay palaging sinusuportahan, ganap na desentralisado, nagbibigay ng matatag na ani at pinapadali ang mga transaksyon sa hindi pa nagagawang bilis. Naiiba ang Gyro sa pagiging kumikita ng interes, token na hinihimok ng komunidad na may malawak na pagkatubig at mapagkumpitensyang mga insentibo.
 
-不，GYRO 不是稳定币。 相反地，GYRO 希望成为由其他去中心化资产所支持的算法储备货币。 这类似于金本位的概念，GYRO允许提供用户一个可长期依赖的自由流通价值，只因 GYRO能从中提取其内在价值的部分库藏储备。
+**Stablecoin ba ang GYRO?**
 
-**GYRO** **与美元挂钩吗？** **💵**
+Hindi, ang GYRO ay hindi isang stablecoin. Sa halip, ang GYRO ay naghahangad na maging isang algorithmic reserve currency na sinusuportahan ng iba pang mga desentralisadong asset. Katulad ng ideya ng pamantayang ginto, ang GYRO ay nagbibigay ng _free-floating value_ na maaaring palaging babalikan ng mga user nito, dahil lamang sa fractional treasury reserves na kinukuha ng GYRO ang intrinsic na halaga nito.
 
-每个 GYRO 是由1 美元价格”支持”，但不是美元和挂钩。 由于库藏至少得提出 1 美元以支持每个 GYRO币，当 GYRO 交易价格低于 1 美元时，协议会买回并销毁 GYRO。 这能帮助 GYRO币价格推回到 1 美元。 GYRO 始终可以在 1 美元以上价格交易，由于协议没有规定涨幅上限。 所谓的挂钩指 的是价格等同=1，但”支持”的意思是 >= 1。
+**Is Naka-pegged ba ang GYRO sa dolyar?** 💵
 
-你可能会说 GYRO 的底价或内在价值是 1 美元。 但我们认为其实际价格永远是 1 美元 + 溢价，但最终价格还是得由市场决定。
+Hindi. Ang bawat GYRO ay sinusuportahan ng 1 USDT, hindi naka-pegged dito. Dahil sinusuportahan ng treasury ang bawat GYRO na may hindi bababa sa 1 USDT, bibilhin at susunugin ng protocol ang GYRO kapag nagtrade ito sa ibaba ng 1 USDT. Ito ay may epekto ng pagtulak sa presyo ng GYRO pabalik sa 1 USDT. Maaaring palaging i-trade ng GYRO ang higit sa 1 USDT dahil walang pinakamataas na limitasyon na ipinapataw ng protocol. Isipin ang pegged == 1, habang naka-back >= 1.
 
-**谁在操控库藏资金？**
+Maaari mong sabihin na ang GYRO floor price o intrinsic value ay 1 USDT. Naniniwala kami na ang aktwal na presyo ay palaging magiging 1 USDT + premium, ngunit sa huli ay nasa market na ang magpasya.
 
-由于协议控制着其库藏中的资金，GYRO 只能由协议铸造或销毁。 这也保证了协议永远可以用 1 美元价格支持 1 个 GYRO币。 您可以轻松定义您的投资风险，因为您可以确信该协议将使用库藏资产以低于 1 美元 的价格无限期购买 GYRO，直到没有人出售为止。 你不能相信美联储(FED)，但你可以相信协议(Code)。
+**Sino ang kumokontrol sa mga pondo?**
 
-随着协议积累了更多的流动性，可以为权益人保证更多的发展路线。这意味着质押者可以确信当前的质押 的年收益率是可以长期维持的，因为库藏中还存有更多的资金可利用。
+Habang kinokontrol ng protocol ang mga pondo sa treasury nito, ang GYRO ay maaari lamang i-mint o sunugin ng protocol. Tinitiyak din nito na palaging maibabalik ng protocol ang 1 GYRO na may 1 USDT. Madali mong matukoy ang panganib ng iyong pamumuhunan dahil maaari kang maging kumpiyansa na ang protocol ay bibilhin nang walang katapusan ang GYRO na mas mababa sa 1 USDT kasama ang mga asset ng treasury hanggang sa walang matitira upang magbenta. Hindi mo mapagkakatiwalaan ang FED ngunit mapagkakatiwalaan mo ang code.
 
-**什么是Rebase？**
+Habang ang protocol ay nakakaipon ng mas maraming liquidity, mas maraming runway ang ginagarantiyahan para sa mga staker. Nangangahulugan ito na ang mga staker ay maaaring magtiwala na ang kasalukuyang staking na APY ay maaaring mapanatili sa mas mahabang panahon dahil mas maraming pondo ang magagamit sa treasury.
 
-Rebase 是一种机制，通过Rebase，您的质押 GYRO (sGYRO) 余额会自动增加。 当协议铸造新的 GYRO币时，其中很大一部分会流向质押者。 由于质押者只看到质押 的GYRO (以sGYRO出示) 余额但不是GYRO币，因此协议利用rebase 机制来增加质押 的GYRO (sGYRO) 余额，以利用户质押1 个GYRO (sGYRO)时， 始终可兑换回1 个GYRO。
+**Ano ang rebase?**
 
-**什么是奖励收益率？**
+Ang rebase ay isang mekanismo kung saan awtomatikong tumataas ang balanse ng iyong staked na GYRO (sGYRO). Kapag ang bagong GYRO ay ginawa ng protocol, ang malaking bahagi nito ay napupunta sa mga staker. Dahil nakikita lang ng mga staker ang staked GYRO (sGYRO) na balanse sa halip na GYRO, ginagamit ng protocol ang rebase mechanism para pataasin ang staked na GYRO (sGYRO) na balanse nang sa gayon ang 1 staked GYRO (sGYRO) ay palaging nare-redeem para sa 1 GYRO.
 
-奖励收益率是您质押的 GYRO (sGYRO) 余额在下一个时期增加的百分比。 它也被称为 “rebase 汇率”。
+**Ano ang reward yield?**
 
-**什么是APY？**
+Ang reward yield ay ang porsyento kung saan tumataas ang iyong staked na balanse sa GYRO (sGYRO) sa susunod na panahon. Ito ay kilala rin bilang rebase rate.
 
-APY 代表年收益率。 它通过采复利的影响来衡量您本金的实际回报率。 以 Gyro 情况来说，您质押的 GYRO (sGYRO) 代表您的本金，且由于 rebase 机制的关系，它在每个时期都会定期增加复利。
+**Ano ang APY?**
 
-另关于 APY 的一个有趣的部份是，您的余额不会随着时间增长，而是随着指数率增长！ 假设每天的复利为2%，如果你是从1 GYRO的金额开始投资，一年后，你的余额会增长到1377 GYRO左右。
+Ang APY ay kumakatawan sa taunang porsyento ng ani. Sinusukat nito ang tunay na rate ng kita sa iyong prinsipal sa pamamagitan ng pagsasaalang-alang sa epekto ng pagsasama-sama ng interes. Sa kaso ng Gyro, ang iyong staked GYRO (sGYRO) ay kumakatawan sa iyong principal, at pana-panahong idinaragdag ang tambalang interes sa bawat panahon, salamat sa mekanismo ng rebase.
 
-**为什么要质押** **GYRO？**
+Isang kawili-wiling katotohanan tungkol sa APY ay ang iyong balanse ay lalago hindi linearly ngunit exponentially sa paglipas ng panahon! Sa pag-aakalang 2% ang pang-araw-araw na compound interest, kung magsisimula ka sa balanse na 1 GYRO sa unang araw, pagkatapos ng isang taon, tataas ang iyong balanse sa humigit-kumulang 1377.
 
-由于复利的力量，您的 GYRO 余额将随着时间的推移呈指数增长。 假设您现在以 400 美元的价格购买到一个 GYRO，而市场决定在 1 年后，将GYRO 的内在价值定为 2 美元。 假设每日复利为 2%，到年底时您的余额将增长至约 1377 个 GYRO，价值约 2754 美元。 这利润相当于 2354 美元！ 到目前为止，您应理解您现在正为 GYRO 支付溢价以换取长期利益。 因此，您应该规划一个长期投资计划来让您的 GYRO 余额呈现指数级增长，并让它成为一项您引以为傲的投资。
+**Bakit ko itataya ang GYRO?**
 
-**GYRO未来的内在价值是什么？**
+Ang iyong balanse sa GYRO ay lalago nang husto sa paglipas ng panahon salamat sa kapangyarihan ng pagsasama-sama o compounding. Sabihin nating bumili ka ng GYRO sa halagang $400 ngayon at nagpasya ang market na sa loob ng 1 taon, ang intrinsic na halaga ng GYRO ay magiging $2. Kung ipagpalagay na ang pang-araw-araw na compound na rate ng interes na 2%, ang iyong balanse ay lalago sa humigit-kumulang 1377 GYRO sa pagtatapos ng taon, na nagkakahalaga ng humigit-kumulang $2754. Iyan ay isang cool na $2354 na tubo! Sa ngayon, dapat mong maunawaan na nagbabayad ka ng premium para sa GYRO ngayon kapalit ng pangmatagalang benepisyo. Kaya, dapat ay mayroon kang mahabang panahon upang payagan ang iyong balanse sa GYRO na lumago nang husto at gawin itong isang kapaki-pakinabang na pamumuhunan.
 
-对此，还没有明确的答案，但事实上内在价值是可以由资金池表现决定。 比如说，假设库藏资金可保证用 100 美元来支持每个 GYRO币，那么GYRO的内在价值将是 100 美元。 同时它也可以通过DAO 决定。 例如，假如DAO 决定提高 GYRO 的价格下限，那么它的内在价值将相应的往上提升。
+**Ano ang magiging intrinsic na halaga ng GYRO sa hinaharap?**
 
-**该协议如何设法维持高质押的** **APY？**
+Walang malinaw na sagot para dito, ngunit ang intrinsic na halaga ay maaaring matukoy ng treasury performance. Halimbawa, kung magagarantiyahan ng treasury na i-back up ang bawat GYRO ng 100 USDT, ang intrinsic na halaga ay magiging 100 USDT. Maaari rin itong pagpasiyahan ng DAO. Halimbawa, kung magpasya ang DAO na itaas ang presyo ng GYRO, ang intrinsic na halaga nito ay tataas nang naaayon.
 
-假设该协议的目标是 100,000% 的年收益率(APY)。 这将转化为约 0.6328% 的 rebase 率，或约 2% 的日增长收益。 假设现在有 100,000 个 GYRO币投入质押，协议将需要在额外铸造 2000 个 GYRO 币才能实现日增长收益。 如果该协议每天可从债券销售中获得2000 美元以上，那么预期的年收益是可以实现的。 但如果协议不能实现这一点，则无法保证能获得 100,000% 的 年收益率(APY)。
+**Paano pinamamahalaan ng protocol na mapanatili ang mataas na staking APY?**
 
-**我是否需要在每个期间(Epoch)** **”先解仓再质押** **GYRO”** **才能获得** **rebase** **奖励呢？**
+Sabihin nating nagta-target ang protocol ng APY na 100,000%. Ito ay isasalin sa isang rebase rate na humigit-kumulang 0.6328%, o isang pang-araw-araw na paglago na humigit-kumulang 2%. Kung mayroong 100,000 na GYRO na nakataya sa ngayon, kakailanganin ng protocol na gumawa ng karagdagang 2000 GYRO upang makamit ang pang-araw-araw na paglago na ito. Ito ay makakamit kung ang protocol ay maaaring magdala ng hindi bababa sa 2000 USDT araw-araw mula sa mga benta ng bonds. Kung nabigo ang protocol na makamit ito, ang APY na 100,000% ay hindi magagarantiyahan.
 
-不需要。一旦您通过GYRO来参与 GYRO (sGYRO) 的质押，您质押的 GYRO (sGYRO) 余额将在每个时期(Epoch)自动产生复利。所增加的余额是来自于您的 rebase 奖励。
+**Kailangan ko bang i-unstake at i-stake ang GYRO sa bawat panahon para makuha ang aking rebase rewards?**
 
+Hindi. Kapag na-staked mo na ang GYRO (sGYRO) sa GYRO, ang iyong nakatatak na balanse ng GYRO (sGYRO) ay awtomatikong magsasama-sama sa bawat panahon. Ang pagtaas ng balanse ay kumakatawan sa iyong mga rebase reward.

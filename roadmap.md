@@ -1,23 +1,23 @@
 # Roadmap
 
-**El camino a recorrer**
+**Ang patutunguhan ng Gyro**
 
-Gyro evoluciona constantemente para ofrecer formas más fáciles de usar, consistentes, divertidas y gratificantes para que nuestra comunidad gane a través de nuestro Protocolo.
+Ang Gyro ay patuloy na nagbabago upang mag-alok ng mas madaling gamitin, pare-pareho, masaya at kapakipakinabang na mga paraan para kumita ang aming komunidad sa pamamagitan ng aming Protocol.
 
 
 
-| Milestone                             | Estimated Date  | Status        |
-| ------------------------------------- | --------------- | ------------- |
-| Compilación Alfa                      | Febrero 2021    | ✅Completado   |
-| Campaña de prelanzamiento             | Marzo 2021      | ✅Completado   |
-| Opciones de futuro                    | Abril 2021      | ✅Completado   |
-| Beta Test                             | Julio 2021      | ✅Completado   |
-| IDO                                   | Agosto 2021     | ✅Completado   |
-| Campaña de marketing posterior al IDO | Septiembre 2021 | ⏳ En progreso |
-| Gobernanza  DAO                       | Q4 2021         | 🗓            |
-| Añadir multi-stablecoins              | Q4 2021         | 🗓            |
-| Anuncio de partnership                | Q4 2021         | 🗓            |
-| Actualización UI/UX                   | Q4 2021         | 🗓            |
-| Anuncio de Gamificar la plataforma    | Q1 2022         | 🗓            |
-| Integración Cross-chain               | Q1 2022         | 🗓            |
+| Milestone                   | Estimated Date | Status        |
+| --------------------------- | -------------- | ------------- |
+| Alpha Build                 | February 2021  | ✅Completed    |
+| Pre-launch Campaign         | March 2021     | ✅Completed    |
+| Future Options              | April 2021     | ✅Completed    |
+| Beta Testing                | July 2021      | ✅Completed    |
+| IDO                         | August 2021    | ✅Completed    |
+| Post-IDO Marketing Campaign | September 2021 | ⏳ In Progress |
+| Governance DAO              | Q4 2021        | 🗓            |
+| Adding multi-stablecoins    | Q4 2021        | 🗓            |
+| Partnership Announcement    | Q4 2021        | 🗓            |
+| UI/UX Updates               | Q4 2021        | 🗓            |
+| Gamify Announcement         | Q1 2022        | 🗓            |
+| Cross-chain Integration     | Q1 2022        | 🗓            |
 

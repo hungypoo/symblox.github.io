@@ -1,65 +1,58 @@
-# 债券
+---
+description: Bonding 101
+---
+
+# Bonding
 
 ![](<../.gitbook/assets/image (29).png>)
 
-**什么是债券？**
+**Ano ang Bond?**
 
-债券是指以折扣价（低于市场价格）用流动性提供者 (LP) 代币交易 GYRO 的过程。
+Ang bond ay tumutukoy sa proseso ng pangangalakal ng mga token ng Liquidity Provider (LP) para sa mga token ng GYRO sa isang diskwento (mas mababa sa presyo ng merkado).
 
-使用 Gyro，购买债券的过程已简化为一个步骤。用户只需在钱包中拥有资产对（USDT + GYRO）即可直接购买债券。
+Sa Gyro, ang proseso ng pagbili ng bonds ay pinasimple sa isang hakbang na proseso. Sa halip na bilhin ang mga token ng LP pagkatapos ay i-trade ang mga ito para sa Mga Bond, kailangan lang ng mga user na magkaroon ng asset-pair (USDT + GYRO) sa kanilang wallet upang direktang bilhin ang mga bond.
 
-债券的归属期为 5 天，每天支付一次。 例如，如果您要购买债券，在第一天之后您将收到既得金额的 20%； 然后第二天后 40%，依此类推。
+Ang mga bond ay binigay sa loob ng 5 araw at binabayaran sa bawat taas ng bloke. Halimbawa, kung bibili ka ng isang bond, pagkatapos ng unang araw ay makakatanggap ka ng 20% ​​ng halagang binigay; pagkatapos ay 40% pagkatapos ng ikalawang araw, atbp.
 
-### **为什么用债券？**
+**Bakit bond?**
 
-简单地说，这将允许您以较低的成本购买 GYRO， 作为出售您的资产对 (LP) 的回报。协议将以折扣价出售给您 GYRO。 如果您在市场上购买然后质押，债券将为您提供更多的 GYRO。 “还有多少”的数量将取决于已有多少债券。
+Simple lang, pinapayagan ka nitong bumili ng GYRO sa mas mababang halaga. Bilang kapalit sa pagbebenta ng iyong asset-pair (LP), ibebenta ka ng protocol ng GYRO nang may diskwento. Ang ideya dito ay ang mga bond ay magbibigay sa iyo ng mas maraming halaga ng GYRO kaysa sa matatanggap mo kung bumili ka sa merkado at pagkatapos ay na-stakes. Ang halaga ng "magkano pa" ay matutukoy ng kung gaano karaming mga bond ang mayroon na.
 
-## 让我们来看一个债券的例子
+**Halimbawa ng bond.**
 
-1\.   当 GYRO 的价格为 500 美元时，您有 1,000 美元，您可以购买 2 个 GYRO。
+1. Kapag ang presyo ng GYRO ay $500, at mayroon kang $1,000USD. Sa ganoong na pera, makakabili ka ng 2 GYRO at stake.&#x20;
+2. Ang staking ay magbubunga ng 0.6% bawat panahon, at kaya sa panahon ng vesting term (15 epoch), tataas ang iyong stake mula 2 GYRO hanggang 2.185 GYRO.&#x20;
+3. Kung ang presyo ng bond ay $450, sa halip na bumili ng direkta, maaari kang bumili ng 1 GYRO sa halagang $500, magdagdag ng 1 GYRO at $500 sa pool, at i-bond ang bahagi ng liquidity na nakuha mo para sa isang naka-lock sa 2.22 GYRO.&#x20;
+4. Sa susunod na limang araw, maaari mong i-claim ang mga GYRO na iyon habang binibigyan sila, hanggang matapos ang termino at mayroon ka ng buong halaga.&#x20;
+5. Nagiging kawili-wili ang diskarte kapag isinaalang-alang mo ang mga gantimpala mula sa bond!&#x20;
+6. Bago matapos ang bawat panahon, maaari mong i-claim ang mga naipon na reward at stake, na nangangahulugang makukuha mo ang parehong diskwento at ang staking reward.&#x20;
+7. Kung hindi, maaari mong, sa pagtatapos ng termino, idagdag ang 2.22 GYRO plus $1110 sa pool upang makakuha ng mga bagong LP at lumikha ng isa pang bond.&#x20;
+8. Ang paggawa nito ay magpapababa ng mga gastos dahil nakuha mo na ang iyong GYRO sa isang diskwento at nakakakuha ka na ngayon ng isa pang diskwento sa susunod na round.&#x20;
 
-2\. 每个纪元 的质押将产生约 0.6% 的收益，因此在一个归属期（15 个 纪元）内，您的 质押将从 2 GYRO 增加到 2.185 GYRO。
+Sa diskarteng ito maaari mong gawin pareho:
 
-3\. 如果债券价格为 450 美元，您可以以 500 美元的价格购买 1 个 GYRO，然后将购买的 1 个 GYRO 和剩下的500美元添加到奖池中，这将会锁定 2.22 GYRO 的流动性份额，而不是直接购买（相当于450美元/GYRO）。
+1. Mag-claim ng mga reward at stake bago matapos ang bawat panahon,
+2. Tapos kapag tapos ka nang mag-vesting, i-unstake lahat at i-rebond!
 
-4\. 在接下来的五天内，您可以在这些 GYRO 到期时领取，结束时您可以拥有全部金额。
+**Paggawa ng Bond**
 
-5\. 当您将债券的回报考虑在内时，**策略**就会变得有趣起来！
+Pumunta sa website ng Gyro at piliin ang tab na ‘Bond’. Sipiin ng protocol ang halaga ng GYRO at panahon ng vesting para sa kalakalan. Kakailanganin mong magkaroon ng asset-pair (USDT + GYRO) sa iyong wallet para mabili ang bond.
 
-6\. 在每个纪元结束前，您可以领取累积的奖励和质押，这意味着您可以获得折扣和质押奖励。
+**Pagkuha ng Bond**
 
-7\. 或者，您可以在归属期结束时将 2.22 GYRO 加上 1110 美元（2.22\*500）添加到池中以获得新的 LP 并创建另一个债券。
+Sa website ng Gyro, piliin ang tab na ‘Bond’, pagkatapos ay i-click ang submenu na ‘Redeem’. Ang protocol ay maaalala kapag ikaw ay nag-bond at ang iyong vesting term. Kung mayroon kang anumang nakabinbing reward, maaari mong i-claim ang mga ito. Naiipon ang mga reward sa buong panahon ng vesting.
 
-8\. 这样做会降低成本，因为您已经以折扣价购买了 GYRO，现在您将在下一轮获得另一个折扣。
+Tandaan na ang sGYRO ay ang kita ng protocol na naipon na token at dahil ang mga bonder ay kumikita ng GYRO (hindi sGYRO), ang mga staker ay kumikita ng 100% ng mga kita ng protocol (binawasan ang cut ng DAO). Tingnan ang aming artikulo sa staking para sa higit pang impormasyon.
 
-9\. 在此**策略**中，您可以同时执行以下两项操作：
+**Ang ilang mahahalagang punto sa Bonding**
 
-1\.   在每个纪元结束前领取奖励和权益，
+Bonds ay nagbibigay sa iyo ng pagkakataong bumili ng GYRO mula sa protocol nang may diskwento. Narito ang ilang mga pagkakaiba lamang na dapat tandaan:
 
-2.在到期时，取消所有抵押并重新创建债券！
+1. Magbabayad ka para sa GYRO na may liquidity. Ang aspetong ito ay tumutulong sa protocol na makaipon ng mga bahagi ng pagkatubig.&#x20;
+2. WALANG GYRO up front. Sa halip, ang iyong GYRO ay binigay sa loob ng limang araw. Pinapabilis nito ang mga epekto sa merkado mula sa bagong supply ng GYRO.&#x20;
+3. Ang pangangailangan para sa mga bond ang magpapasiya sa iyong diskwento. Ang mga diskwento sa bond ay tumataas kapag marami ang mga bond, at bumababa kapag may mas kaunti.&#x20;
+4. Kapag nag-bonding ka, naka-lock ang commitment mo sa LP. Kapag nakapagsagawa ka ng isang kalakalan, nagawa mo na ang kalakalan. Isipin ito bilang pagbili ng GYRO at pagtitiwala sa stake ng 5 araw na may nakatakdang reward rate.
 
-**创建一个债券**
+**Konklusyon**
 
-到 Gyro 的网站并选择“债券”选项。 协议将引用 GYRO 金额和交易的归属期。 您需要在钱包中拥有资产对（USDT + GYRO）才能购买债券。
-
-**赎回债券**
-
-在 Gyro 的网站上，选择“债券”选项，然后单击“赎回”。 协议会记住您何时绑定和归属期限。 如果您有任何待处理的奖励，您可以领取奖励。 奖励在整个归属期内累积。
-
-注意：sGYRO 是协议的利润累积代币，并且由于债券持有者赚取 GYRO（而不是 sGYRO），质押者赚取协议利润的 100%（减去 DAO 的削减）。 有关更多信息，请参阅我们的 质押的文章。
-
-### **债券的一些关键点**
-
-债券让您有机会以折扣价从协议中购买 GYRO。 以下是一些需要记住的区别：
-
-1\.   **您用流动性支付** **GYRO。** 这方面有助于协议积累流动性份额。
-
-2\.   **前期没有GYRO**。 相反，您的 GYRO 将在五天内授予。 这消除了 GYRO 新供应对市场的影响。
-
-3\.   **对债券的需求将决定折扣力度**。 债券越多，债券折扣越大，债券越少，折扣越小。
-
-4\.   **当购买债券之后，您的** **LP** **承诺将被锁定。** 当执行交易时，您就完成了交易。 可以将其视为购买 GYRO 并承诺以设定的奖励率质押 5 天。
-
-### **结论**
-
-债券不仅允许用户以折扣价购买 GYRO，而且还可以用作多步投资策略的一部分以复合收益率。
+Ang bonding ay hindi lamang nagbibigay-daan sa mga user na bumili ng GYRO nang may diskwento, ngunit maaari ding gamitin bilang bahagi ng isang multi-step na diskarte sa pamumuhunan upang madagdagan ang mga ani.

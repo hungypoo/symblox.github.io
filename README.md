@@ -1,77 +1,81 @@
 ---
-description: Gyro, una nueva clase de criptoactivo
+description: Gyro, Panibagong crypto asset-class
 ---
 
-# Introducción
+# PANIMULA
 
 ![](<.gitbook/assets/image (4).png>)
 
 \
-En Cripto hay monedas estables, que son monedas digitales vinculadas a activos de reserva "estables" como el dólar estadounidense o el oro. Dado este valor, estos conjuntos de monedas se han convertido en los principales pares comerciales en los mercados cripto y en uno de los activos más populares en DeFi. Tanto es así que actualmente hay $ 111 mil millones de dólares en monedas estables en circulación. Es por eso que ve a los os inversores minoristas e institucionales usar monedas estables como USDT para protegerse frente al Bitcoin.
+Sa Crypto mayroong mga stablecoin, na isang digital na pera na naka-peg sa "stable” o matatag na reserbang mga asset gaya ng U.S. dollar o ginto. Dahil sa halagang ito, ang mga hanay ng mga coin na ito ay naging pangunahing mga pares ng kalakalan sa mga crypto market at isa sa mga pinakasikat na asset sa DeFi. Kaya't may kasalukuyang $111 bilyong USD na halaga ng mga stablecoin sa sirkulasyon. Ito ang dahilan kung bakit nakikita mo ang mga retail at institutional investor na gumagamit ng mga stablecoin gaya ng USDT para mag-hedge laban sa Bitcoin.
 
-Pero hay una mejor opción, GYRO, que no es una moneda estable. Es una nueva y excitante clase de activos cripto que tiene ventajas que las monedas estables no tienen. Es una pieza de "Goldie Locks" o Lego en el ecosistema cripto porque mitiga el perfil de riesgo entre activos volátiles como bitcoin y monedas estables vinculadas. Las monedas estables funcionales pueden lograr la estabilidad y el valor del USD, pero eso no significa necesariamente que sean estables en poder adquisitivo y / o que tengan la capacidad de crecer en valor.
+Ngunit may isang mas mahusay na pagpipilian, GYRO, na kung saan ay hindi isang matatag na kompanya. Ito ay isang bago at kapana-panabik na crypto asset class na may mga bentahe na wala sa stablecoins. Ito ay isang 'Goldie Locks' o Lego piece sa crypto ecosystem dahil ito ay tinatanggal ang panganib sa pagitan ng mga ari-arian tulad ng bitcoin at pegged stablecoins. Makikita dito ang, functional stablecoins na maaaring makamit ang katatagan at halaga ng USD, ngunit hindi nangangahulugan na sila ay matatag sa pagbili ng kapangyarihan at / o magkaroon ng kakayahan upang lumago sa halaga.
 
-Por ejemplo, si introduce un activo con un perfil de riesgo (es decir, un activo volátil como bitcoin) en su cartera, estaría agregando riesgo sistémico. Si agrega Gyro a su cartera, puede ser una herramienta para cubrir activos de alto perfil (es decir, BTC, ETH, BNB) como USDT. La diferencia que cambia el juego de Gyro es que se libera de tener que estar vinculado por el USD.
+Halimbawa, kung ipakilala mo ang isang asset na may panganib na profile (i.e., isang volatile asset tulad ng bitcoin) sa iyong portfolio, ikaw ay nagdaragdag ng sistema ng panganib. Kung magdadagdag ka ng Gyro sa iyong portfolio, maaari itong maging isang kasangkapan upang magpatupad ng mataas na profile asset (i,e., BTC, ETH, BNB) tulad ng USDT. Ang kaibahan ng takbo ng Gyro ay ang paghihiwalay nito mula sa pagkakaroon ng peg ng USD.
 
-Es posible que se pregunten: "¿No están ya haciendo eso las monedas estables?"&#x20;
+Maaaring naitatanong mo sa iyong sarili, “hindi ba ginagawa na ng mga stablecoin yan?”
 
-Y la respuesta sería sí, pero recuerde que la mayoría de las monedas estables están centralizadas y ofrecen muy poco o ningún interés o recompensa. Nuevamente, debido a que GYRO no es una moneda estable y no está vinculado al USD, es más seguro que las monedas estables. Gyro se considera una opción aún mejor por estos motivos:
+At ang sagot ay oo, ngunit tandaan na karamihan sa mga stablecoin ay sentralisado at nag-aalok ng napakaliit o walang interes o mga gantimpala. Muli, dahil ang GYRO ay hindi isang stablecoin at hindi naka-peg sa USD, ito ay mas ligtas kaysa sa mga stablecoin. Ang Gyro ay nakikita bilang isang mas mahusay na pagpipilian dahil:
 
-·       genera intereses
+·       kumikita ito ng interes
 
-·       siempre está respaldado por $ 1 USD (es decir, USDT, DAI, BUSD, USDC)
+·       ay palaging sinusuportahan ng $1 USD (ibig sabihin, USDT, DAI, BUSD, USDC)
 
-·       está totalmente descentralizada con una gobernanza impulsada por la comunidad
+·       ay ganap na desentralisado sa pamamahalang hinimok ng komunidad
 
-·       ofrece incentivos competitivos a los usuarios.
+·       nag-aalok ng mapagkumpitensyang mga insentibo sa mga user/gumagamit
 
-**Cómo funciona invertir en GYRO.**
+**Paano gumagana ang pamumuhunan sa GYRO.**
 
-Entonces, analicemos los conceptos básicos.
+Kaya, hatiin natin ang mga pangunahing kaalaman.
 
-Cada token GYRO está respaldado por 1 USD (es decir, USDT, DAI, BUSD, USDC) en la tesorería.
+Ang bawat GYRO token ay suportado ng 1 USD (i.e. USDT, DAI, BUSD, USDC) sa treasury.
 
-Inicialmente, comenzaremos con USDT como nuestro activo de tesorería. Después del lanzamiento, agregaremos otras monedas estables para equilibrar nuestra tesorería. Esto incluirá DAI, BUSD, USDC, etc.
+Magsisimula tayo sa USDT bilang ating treasury asset. Pagkatapos ng paglulunsad, magdaragdag kami ng iba pang mga stablecoin para balansehin ang aming treasury. Kabilang dito ang DAI, BUSD, USDC atbp.
 
-Los tokens no pueden ser acuñados ni quemados por nadie excepto por el protocolo.El protocolo solo se acuña o quema en respuesta al precio.
+Ang mga token ay hindi maaaring gawan o sunugin ng sinuman maliban sa protocol.
 
-GYRO no reajusta. En cambio, se crea una nueva oferta a través de ventas directas en el mercado y se quema a través de compras directas en el mercado. De esta manera, GYRO permanece respaldado por activos reales en tesorería, es decir, USD.
+Ang protocol ay mints o nasusunog lamang bilang tugon sa presyo.
 
-Esto básicamente se traduce en:
+Hindi nagre-rebase ang GYRO. Sa halip, ang isang bagong supply ay nilikha sa pamamagitan ng direktang pagbebenta sa merkado at sinusunog sa pamamagitan ng mga direktang pagbili mula sa merkado. Sa ganitong paraan, ang GYRO ay nananatiling suportado ng mga tunay na asset sa treasury, i.e., USD.
 
-Cuando GYRO cotiza por debajo de ↓ 1 USDT, el protocolo lo vuelve a comprar y quema GYRO.
+Ang mga ito ay karaniwang isinasalin sa:
 
-Cuando GYRO cotiza por encima de ↑ 1 USDT, el protocolo acuña y vende un nuevos GYRO.
+Kapag nagtrade ang GYRO na mas mababa sa 1 USDT, bibilhin ito ulit ng protocol at susunugin ang GYRO.
 
-Esto se debe a que la tesorería debe tener 1 USDT y solo 1 USDT por cada GYRO cada vez que se compra o vende para que obtenga una ganancia. Eso significa que el protocolo obtiene más de 1 USDT por el lado de la venta o gasta menos de 1 USDT por el lado de la compra.
+Kapag nagtrade ang GYRO na mas mababa sa 1 USDT, ang protocol ay magmi-mints at magbebenta ng bagong GYRO.
 
-El hecho de que el protocolo contenga USDT para cada token nos permite decir con certeza que GYRO no cotizará por debajo de su valor intrínseco a largo plazo.
+Ito ay dahil ang treasury ay dapat magkaroon ng 1 USDT at 1 USDT lamang para sa bawat GYRO tuwing ito ay binili o ibebenta kaya ito ay kumikita. Nangangahulugan na ang protocol ay makakakuha ng higit sa 1 USDT para sa bahagi ng pagbebenta o gumastos ng mas mababa sa 1 USDT sa bahagi ng pagbili.
 
-Las inversiones se pueden realizar con un riesgo definido porque 1 USDT es el precio mínimo garantizado a largo plazo. Y debido a esto, el protocolo puede comprar (y lo hará) indefinidamente por debajo de 1 USDT hasta que no queden vendedores, incluso si la oferta se reduce a 0. En este ejemplo, este evento recompensaría inmensamente a aquellos que no vendieron porque terminarían con ¡un trozo de cada token que se quemó!
+Ang katotohanan na ang protocol ay may hawak na USDT para sa bawat token ay nagbibigay-daan sa amin na sabihin nang may katiyakan na ang GYRO ay hindi magbe-trade sa ibaba ng intrinsic na halaga nito sa mahabang panahon.
 
-Mantener monedas estables para respaldar tokens también crea una oportunidad de generación de rendimiento.
+Ang mga pamumuhunan ay maaaring gawin nang may tinukoy na panganib dahil 1 USDT ang garantisadong pangmatagalang palapag ng presyo. At dahil dito, ang protocol ay maaaring (at bibili) nang walang katiyakan na mas mababa ng 1 USDT hanggang sa walang matitirang nagbebenta, kahit na ang supply ay nabawasan sa 0. Sa halimbawang ito, ang kaganapang ito ay magbibigay ng gantimpala sa mga hindi nagbebenta nang labis dahil sila ay mapupunta sa isang tipak ng bawat token na nasunog!
 
-Guardar las monedas estables en una bóveda sería un desperdicio. Dado que el protocolo nunca necesita más que un pequeño porcentaje de reservas, incluso en el mayor de los días de inactividad, significa que puede utilizar el resto para conectar con yield aggregators y sumar esos ingresos a las ganancias de la compra y venta de GYRO.
+Ang paghawak ng mga stablecoin sa likod ng mga token ay lumilikha din ng pagkakataon sa pagbuo ng ani.
 
-Distribución inicial de beneficios de Gyro
+Ang pag-lock ng mga stablecoin sa isang vault ay magiging isang basura. Dahil ang protocol ay hindi kailanman nangangailangan ng higit sa ilang porsyento ng mga reserba, kahit na sa magkaroon ng down days, ay nangangahulugang malaya kang gamitin ang natitira upang isaksak sa mga yield aggregator at idagdag ang mga nalikom na iyon sa mga kita mula sa pagbili at pagbebenta ng GYRO.
 
-90% para los stakers
+**Ang unang pamamahagi ng tubo ng Gyro**
 
-10% a la organización autónoma descentralizada o DAO (estas asignaciones se cambiarán, si es necesario, según lo decida el DAO).
+90% para sa mga staker
 
-Todas las recompensas se pagan en GYRO respaldado por monedas estables.
+10% sa desentralisadong autonomous na organisasyon o DAO (ang mga alokasyong ito ay babaguhin, kung kinakailangan, ayon sa pagpapasya ng DAO).
 
-Este sistema mantiene un valor intrínseco estable y reduce el rol incentivador de la apreciación a favor de la acumulación. Al igual que con la moneda real, usted intenta acumular más dólares y no tiene que desearle a una estrella que sus dólares valgan más. Aunque ambas cosas pueden suceder.
+Ang lahat ng mga reward ay binabayaran sa GYRO na sinusuportahan ng mga stablecoin.
 
-¿Cuál es la mejor jugada con GYRO?
+Ang sistemang ito ay nagpapanatili ng isang matatag na intrinsic na halaga at binabawasan ang insentibo na papel ng pagpapahalaga sa pabor ng akumulasyon. Tulad ng totoong pera, sinusubukan mong makaipon ng mas maraming dolyar at hindi mo kailangang hilingin sa isang bituin na ang iyong mga dolyar ay maging mas nagkakahalaga. Bagama't parehong maaaring mangyari.
 
-Compre GYRO tan cerca o justo por debajo de 1 USDT como pueda.
+**Ano ang pinakamagandang laro sa GYRO?**
 
-Recuerde que la distancia desde 1 es el riesgo que asume (¡en realidad es negativo por debajo de 1!).Independientemente de dónde compre, puede stakear su GYRO o proporcionarlo al pool de PancakeSwap como liquidez y vincular el token LP.
+Bumili ng GYRO na malapit at/ o mas mababa ng kaonti sa 1 USDT.
 
-En ambos casos, ¡ganarás más GYRO con el tiempo!
+Tandaan na ang distansya mula sa 1 ay ang panganib na dadalhin mo (talagang ito ay negatibo sa ibaba 1!).
 
-**Conclusión**
+Saan ka man bumili, maaari mong i-stake ang iyong GYRO o ibigay ito sa PancakeSwap pool bilang liquidity at i-bond ang LP token.
 
-El objetivo de Gyro es ofrecer una una clase de activos que pueda formar parte de cualquier cartera. Se puede utilizar para cubrir activos de riesgo al tiempo que ofrece incentivos más seguros y mejores que las monedas estables.
+Sa parehong mga kaso, kikita ka ng mas maraming GYRO sa paglipas ng panahon!
+
+**Konklusyon**
+
+GAng layunin ng Gyro ay mag-alok ng bagong class asset token na maaaring maging bahagi ng anumang portfolio. Maaari itong gamitin para i-hedge ang mga mapanganib na asset habang nag-aalok ng mas ligtas at mas magandang insentibo kaysa sa mga stablecoin.
 

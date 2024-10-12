@@ -1,16 +1,16 @@
 ---
-description: Adding GYRO tokens to your wallet
+description: Pagdaragdag ng GYRO tokens sa inyong wallet
 ---
 
-# Adding GYRO tokens to Metamask
+# Pagdaragdag ng GYRO tokens sa Metamask
 
-**Add GYRO Tokens to Metamask**
+**Magdagdag ng GYRO Token sa Metamask**
 
-* Open Metamask. Click ‘Assets’ tab then click ‘Add Token’ button.
+* Buksan ang Metamask. Pindutin ang ‘Assets’ tab at pindutin ang ‘Add Token’ button.
 
 ![](../.gitbook/assets/0.png)
 
-* Paste the Contract Address for GYRO in the ‘Token Contract Address’ field. The rest of the settings will be autofilled.
+* Ilagay ang Address ng Kontrata para sa GYRO sa field na ‘Token Contract Address’. Ang iba pang mga setting ay ma-autofill.
 
 ![](<../.gitbook/assets/1 (2).png>)
 

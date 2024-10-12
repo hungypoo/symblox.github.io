@@ -1,24 +1,24 @@
 ---
-description: Configure Metamask to connect to Binance Smart Chain
+description: I-configure ang Metamask para kumonekta sa Binance Smart Chain
 ---
 
-# Configuring Metamask
+# Pag-configure sa Metamask
 
-**Follow these steps to setup Metamask to connect with BSC Mainnet**
+**Sundin ang mga hakbang na ito para i-setup ang Metamask para kumonekta sa BSC Mainnet**
 
-**A. Connect MetaMask to BSC Mainnet**
+**A. I-konekta ang Metamask sa BSC Mainnet**
 
-* Go to Settings page
+* Pumunta sa Settings page
 
 ![Settings Page](<../.gitbook/assets/0 (2).png>)
 
-* Add a new Network
+* Magdagdag ng bagong Network
 
-![Choose Networks](../.gitbook/assets/1.png)
+![Piliin ang Networks](../.gitbook/assets/1.png)
 
-![Adding Network](<../.gitbook/assets/2 (1).png>)
+![Magdagdag ng Network](<../.gitbook/assets/2 (1).png>)
 
-![Add Binance Smart Chain Settings](../.gitbook/assets/3.png)
+![Idagdag ang Binance Smart Chain Settings](../.gitbook/assets/3.png)
 
 * RPC: [https://bsc-dataseed1.binance.org](https://bsc-dataseed1.binance.org/)
 * ChainID: 56

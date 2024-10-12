@@ -1,38 +1,38 @@
-# 如何买债券?
+# Paano mag Bond
 
 ![](<../.gitbook/assets/1 pB9cX71sKeiIL-Dn0ooljw.gif>)
 
 \
-**1.** 点击上方的“债券”，然后选择“快捷存入”。
+**1.** Pindutin ang “**Bond Menu”** sa itaas, pagkatapos ay piliin ang **“Buy Bond”.**
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (17).png>)
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (20).png>)
 
-**2.** 选择您将用于购买债券的 **GYRO** 和 **USDT** 的数量。
+**2.** Ilagay ang halaga sa GYRO o USDT na gusto mong bilhin. Awtomatikong kakalkulahin ng dapp ang halaga para sa iba pang pares ng asset.
 
-* 您必须为 **GYRO** **和** **USDT** 存入相同价值的美元。
+* Ang pagbili ng mga bond ay nangangailangan ng pagdaragdag ng parehong halaga para sa GYRO at USDT.
 
 ![](<../.gitbook/assets/image (33).png>)
 
 ![](<../.gitbook/assets/image (40).png>)
 
-*   协议会**自动**为您执行**计算**。
+Halimbawa, **1 GYRO = $ 57.254**
 
-    &#x20;
+* Awtomatikong **ginagawa ng protocol ang pagkalkula** para sa iyo.
 
 ![](<../.gitbook/assets/image (45).png>)
 
-* 在购买债券之前，**检查协议应用的折扣**，这将是您将获得的相对于 GYRO 在那个精确时刻的市场价格的折扣。
+* Bago bilhin ang bond, **suriin ang diskwento** na inilapat ng protocol, ito ang magiging diskwento na matatanggap mo kaugnay ng presyo sa merkado sa eksaktong sandali para sa GYRO.
 
 ![](<../.gitbook/assets/image (26).png>)
 
-* 测试网的归属时间为 **1** **天**，主网的归属时间为 **5** **天**。
+* Ang panahon ng vesting ay magiging 5 araw. Magagawa mong i-redeem ang GYRO bawat block height.&#x20;
 
-**3.** 点击底部的“**购买债券**”按钮。
+**3.** Pindutin ang **“Buy Bond”** button sa ibaba.
 
 ![](<../.gitbook/assets/image (28).png>)
 
-**4.** 点击确认完成。
+**4.** **Kumpirmahin** ang transaksyon upang matapos.
 
 ![](<../.gitbook/assets/image (41).png>)

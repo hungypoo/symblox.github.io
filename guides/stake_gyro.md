@@ -1,24 +1,24 @@
-# OBSOLETE - How To Stake
+# Paano mag-stake
 
 ![How To Stake](<../.gitbook/assets/1 oNJRvjjhyFHPChygM8tDpA.gif>)
 
 \
-**1.**  Click “**Stake Menu”** on top.
+**1.**  Pindutin ang “**Stake Menu”** sa itaas.
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (39).png>)
 
-**2.** Choose the **amount of GYRO** you want to use for staking.
+**2.** Ilagay ang **dami ng GYRO** na nais ninyong gamitin sa staking.
 
 ![](<../.gitbook/assets/image (15).png>)
 
-**3.** Click on the “**Stake”** button at the bottom.
+**3.** Pindutin ang “**Stake”** button sa ibaba.
 
 ![](<../.gitbook/assets/image (10).png>)
 
-**4. Confirm** the transaction to finish.
+**4. Kumpirmahin** ang transaksyon upang matapos na.
 
 ![](<../.gitbook/assets/image (11).png>)
 
-**Why am I getting sGYRO when staking?**
+**Bakit ako nakakakuha ng sGYRO kapag staking?**
 
-sGYRO — staked GYRO — By using sGYRO, the protocol can automatically rebase staked GYRO. By rebasing this way, compound yield is automatically applied to the principal, allowing for true rewards.
+sGYRO — staked GYRO — Sa pamamagitan ng paggamit ng sGYRO, awtomatikong mai-rebase ng protocol ang staked GYRO. Sa pamamagitan ng rebasing sa ganitong paraan, ang compound yield ay awtomatikong inilalapat sa principal, na nagbibigay-daan para sa mga tunay na reward.

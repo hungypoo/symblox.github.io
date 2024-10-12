@@ -1,44 +1,56 @@
-# 质押
+---
+description: Pagsagad sa kita gamit ang Staking
+---
 
-![](<../.gitbook/assets/image (19).png>)
+# Staking
 
-\
-将利益最大化
+**Pangkalahatang-ideya (Overview)**
 
-稳定币是现代数字资产经济的基础。目前，加密货币领域的总市值接近 2 万亿美元，稳定币占其中的 5%。简而言之，稳定币是法定货币的链上代表，可以做到现实世界货币无法做到的事情。
+Ang Cryptocurrency staking ay nangangahulugang “pag-lock up” ng isang digital asset o pagiging validator sa isang desentralisadong crypto network.
 
-法币支持的稳定币是去中心化金融生态系统的命脉，支持从借贷，抵押，到流动性挖矿和闪贷的各种用例。然而，这些并不是唯一的“稳定币”。
+Ang staking ay ang pangunahing diskarte sa value-accrual ng maraming DeFi protocol. Para sa Gyro, itataya ng mga user ang kanilang GYRO sa pamamagitan ng website ng dApp ng Gyro para makakuha ng mga reward. Ang mga reward na ito ay nakukuha sa mga nalikom sa pagbebenta ng bono at maaaring mag-iba batay sa bilang ng GYRO na na-stack sa loob ng protocol at ang reward rate na itinakda ng algorithmic monetary policy.
 
-加密资产背书的稳定币是正确发展方向的一大步，但也存在一系列问题。例如，MakerDAO 对以太坊进行了大量超额抵押，并且在过去几年中经历了多次上下波动。GYRO 旨在为稳定币供应的发行和维护创建一个更好的平台，并通过阻止除协议之外的任何人铸造或销毁代币。 GYRO比其他任何的平台或方案都更接近于解决实际问题。
+**Staking**
 
-GYRO不会重定基准；在价格下跌时将回购和销毁代币，并在价格上涨时铸造和出售。这意味着协议从以较低的价格点买入或以较高的价格点出售来获利，并且储备库发行债券以铸造 GYRO 并将其分发给质押者。
+Kapag nagstake ka, ikaw ay:&#x20;
 
-去中心化金融（DeFi）将区块链推向了前所未有的高度，而稳定币是重要的组成部分。通过制造更好的稳定币，GYRO不仅有助于为该领域带来更多资产，还可以通过提供更好质量的稳定币来提高DeFi领域的整体性能。
+1. I-lock ang GYRO at makatanggap ng katumbas na halaga ng sGYRO.&#x20;
+2. Ang iyong balanse sa sGYRO ay awtomatikong nagre-rebase sa dulo ng bawat panahon.&#x20;
+3. Maaaring maging karapat-dapat ang sGYRO na mailipat kaya ito ay composable sa iba pang mga DeFi protocol.
 
-**结合质押**
+Madali lang gawin!
 
-在数字资产的世界中，质押是指资产被锁定在智能合约中以随着时间的推移产生回酬。GYRO 用户可以通过平台的原生DApp网站来质押他们的代币，奖励由债券销售的收益和质押的GYRO数量决定。
+1. Pumunta sa Gyro website at piliin ang “stake.”&#x20;
+2. Ipadala ang iyong GYRO sa staking contract at tumanggap ng sGYRO sa 1 1 na batayan.
 
-质押GYRO时，用户将收到等量的sGYRO代币作为回报，这些代币在每个纪元结束时自动变基。此sGYRO可转移到其他DeFi协议上，并可与不同的去中心化金融生态系统组合。但sGYRO是一种会重定基准的代币，除了持有以外，不得用于任何交易或其他使用。
+Tandaan na ang sGYRO ay isang transfer-restricted rebasing token kaya hindi ito nilalayong ipagpalit o gamitin para sa anumang bagay maliban sa paghawak.
 
-在结束质押期间，用户将他们的sGYRO代币发送回合约进行销毁以换取GYRO，但这需要用户最新的重定基准作为退出费用。重定基准是指资产的价值根据其产生价值的基础资产进行调整。例如，有100个GYRO被质押，并且协议使用这些资金来产生5%的利润，那么质押者手中的100个sGYRO将不得不重新调整基准以保持对应价值。
+**Unstaking**
 
-重定基准在下一个纪元结束时，会让投资者有足够的时间看看结果，并决定他们是否要取消质押。在GYRO上质押的另一个优势是：收益率是复利的，这意味着重定基准会随着时间的推移增加收益率。这也意味着用户越早质押代币，其可以获得的收益就越高。
+Kapag nag-unstake;
 
-由于协议处理所有代币的质押，因此GYRO的长期交易永远不会低于其内在价值，允许投资者在确定风险的情况下做出决策，因为长期价格下限为1美元。通过质押，所有的利润平均分配给参与者，使用 sGYRO，每个人也可以在每个纪元中获得相同百分比的利润。
+Pumunta sa aming website at piliin ang “unstake.”&#x20;
 
-这让用户只需持有资产就可以增加收益，而无需在各种流动性挖矿平台上管理资产。重要的是要了解GYRO本身不会重定基准 — — 而是通过实际销售到市场来保持其稳定性，并且用户可通过债券以较低的成本购买GYRO。
+1. Ipadala ang sGYRO pabalik sa staking contract para makatanggap ng GYRO sa 1 1.&#x20;
+2. Sunugin ang iyong sGYRO at makatanggap ng katumbas na halaga ng GYRO.&#x20;
+3. Ang pag-unstake ay nangangailangan din ng user na i-forfeit ang pinakabagong rebase bilang exit fee.
 
-作为出售资产对以提供流动性的回酬，该协议通过债券以折扣价提供GYRO，债券授予五天并在每个纪元赎回。尽管这使投资者能够积累更多的GYRO，而不是通过以市场价格购买和质押，额外的收益在很大程度上取决于已经有多少债券可用。
+**Rebasing**
 
-债券奖励也可以在每个时期结束前进行质押，这意味着用户可以获得更大的折扣以及质押奖励。此外，在纪元结束时，用户可以使用更多的资金来购买更多的债券，从而通过保持折扣价格来进一步降低成本。
+Sa cryptocurrency, ang rebasing ay ang proseso ng pagsasaayos ng halaga ng isang derivative (sGYRO) sa pinagbabatayan nitong base (GYRO).
 
-从本质上讲，通过为GYRO提供支付流动性，该协议可以积累流动性份额。并且通过在五天内授予GYRO，新GYRO的供应对市场产生的影响将会变得更加平缓。还值得注意的是，债券的折扣主要取决于可用债券的数量，伴随可用数量的上升和下降。
+Dahil ang protocol ng Gyro ay namamahagi ng GYRO sa pamamagitan ng pagpapadala sa kanila sa staking contract nang hindi humihingi ng sGYRO pabalik, pinatataas nito ang ratio ng GYRO staked sa sGYRO outstanding. Kaya, nagreresulta sa isang rebase upang itama ang pagkakaiba.
 
-**让稳定币变得更好**
+Halimbawa mayroong 100k GYRO staked at 100k sGYRO outstanding. Ang protocol ay gumawa ng $5k na tubo para sa araw, na ginagamit nito upang i-mint at ibalik ang 5k GYRO. Ipinapadala nito ang mga GYRO sa kontrata ng staking; mayroon na ngayong 105k GYRO staked at 100k sGYRO outstanding. Kailangang tumaas ng 5k, o 5%, ang supply ng sGYRO, para bumalik sa balanse. Kaya, ang sGYRO ay muling binase ng 5%.
 
-GYRO 提供了一种更简单、安全与去中心化金融市场互动的方法，其为用户提供了一种赚取丰厚利息奖励、对社区驱动的治理提案进行投票、对质押的竞争激励的方式。每个GYRO 始终以USDT、DAI、USDC 甚至 BUSD 的形式获得1美元的支持，平台计划很快增加对更多支持代币的担保。
+Ang mga rebase ay nangyayari nang retroactive. Halimbawa, sa pagtatapos ng epoch 10 ay nagti-trigger ng rebase ng mga kita mula sa epoch 9. Hinahayaan ka ng pagkaantala na ito na makita mo kung ano ang nawawala sa iyo kung gusto mong alisin ang stake o kung ano ang makukuha mo kung gusto mong ipusta.
 
-GYRO还可用于对冲比特币、以太坊甚至币安币等大市值加密货币的波动性。通过与美元脱钩，GYRO可确保投资者的资金随着时间的推移而保持其价值。尽管大多数类似的稳定币已经提供此功能，但这些稳定币仍然高度中心化或设计不佳。
+**Ang dahilan ng pag-stake — Compound Interest**
 
-尽管GYRO有助于解决现代稳定币面临的许多问题，但它并不是真正的稳定币。相反，GYRO是加密货币资产类别中的一个全新概念，GYRO具有许多以前不可能实现的优势。由于GYRO处于投机性资产和现代功能性稳定币之间风险范围，因此GYRO在加密行业中是符合大众效应的。 尽管稳定币在数字资产和虚拟货币领域里站稳了脚跟，只有通过迭代开发，才能最终实现完美的链上价值通证。GYRO旨在朝着这个目标前进，为更好的数字经济创造最实用、最稳定的基础。
+Ang Annual Percentage Yield (APY) ay isang pagsukat ng compound interest. Iba ito sa Annual Percentage Return (APR), na isang sukatan ng simpleng interes.
+
+Ang staking sa Gyro ay nagbibigay-daan sa mga user na awtomatikong makatanggap ng pinagsama-samang pagbabalik. Kapag na-stakes ng mga user ang GYRO, nakakatanggap sila ng sGYRO. Kinakatawan ng sGYRO ang aming staked GYRO. Ang sGYRO ay maaaring palaging palitan ng 1 1 para sa GYRO, ngunit ito ay nagre-rebase upang ipakita ang mga kita. Nangangahulugan ito na maaari tayong mag-compound; halimbawa, bawat araw ng aming unang linggo ay nag-rebase kami ng 0.45% bawat panahon. Kung nakakuha ka ng 100 GYRO, ang iyong unang rebase ng linggo ay 0.45 GYRO at ang iyong huling rebase ng linggo ay 0.49 GYRO. Ito ay isang 10% na pagtaas sa ani! Kung mayroon tayong simpleng interes, ang bawat panahon ay magiging 0.45 GYRO.
+
+**Konklusyon**
+
+Ang staking ay kung paano ibinabahagi ang kita nang pantay-pantay sa mga kalahok. Sa pamamagitan ng sGYRO, lahat ay makakakuha ng parehong porsyento ng kita para sa bawat panahon. Samakatuwid, ang pagkilos ng rebasing ay nagbibigay din sa atin ng pagkakataong mag-compound ng mga ani nang hindi kinakailangang mag-ani o gumawa ng anuman maliban sa paghawak.
